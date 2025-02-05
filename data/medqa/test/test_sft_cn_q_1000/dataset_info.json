@@ -1,0 +1,23 @@
+{
+    "all_test_cn2en": {
+        "file_name": "all_test_cn2en.json"
+    },
+    "all_test_native_cn": {
+        "file_name": "all_test_native_cn.json"
+    },
+    "test_cn2en_299": {
+        "file_name": "test_cn2en_299.json"
+    },
+    "test_native_cn_299": {
+        "file_name": "test_native_cn_299.json"
+    },
+    "testset_cn2en": {
+        "file_name": "testset_cn2en.json"
+    },
+    "testset_native_cn": {
+        "file_name": "testset_native_cn.json"
+    },
+    "all_test_cn2fr": {
+        "file_name": "all_test_cn2fr.json"
+    }
+}

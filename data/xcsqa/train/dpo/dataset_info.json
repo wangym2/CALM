@@ -1,0 +1,62 @@
+{
+    "DPO_cn": {
+        "file_name": "DPO_cn.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_fr": {
+        "file_name": "DPO_fr.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_en": {
+        "file_name": "DPO_en.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_it": {
+        "file_name": "DPO_it.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_de": {
+        "file_name": "DPO_de.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_ja": {
+        "file_name": "DPO_ja.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    }
+}

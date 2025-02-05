@@ -1,0 +1,23 @@
+{
+    "x_csqa_cn_test": {
+        "file_name": "x_csqa_cn_test.json"
+    },
+    "x_csqa_fr_test": {
+        "file_name": "x_csqa_fr_test.json"
+    },
+    "x_csqa_en_test": {
+        "file_name": "x_csqa_en_test.json"
+    },
+    "x_csqa_de_test": {
+        "file_name": "x_csqa_de_test.json"
+    },
+    "x_csqa_ja_test": {
+        "file_name": "x_csqa_ja_test.json"
+    },
+    "x_csqa_it_test": {
+        "file_name": "x_csqa_it_test.json"
+    },
+    "x_csqa_ar_train": {
+        "file_name": "x_csqa_ar_train.json"
+    }
+}

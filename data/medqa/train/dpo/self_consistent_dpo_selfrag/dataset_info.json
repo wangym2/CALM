@@ -1,0 +1,32 @@
+{
+    "DPO_en2cn": {
+        "file_name": "DPO_en2cn.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_en2fr": {
+        "file_name": "DPO_en2fr.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    },
+    "DPO_native_en": {
+        "file_name": "DPO_native_en.json",
+        "ranking": true,
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "chosen": "chosen",
+            "rejected": "rejected"
+        }
+    }
+}

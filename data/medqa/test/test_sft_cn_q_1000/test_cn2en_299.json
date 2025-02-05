@@ -1,0 +1,512 @@
+[
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "When it is confirmed through investigation that there is an epidemic of nosocomial infection, the time when the hospital should report it to the local health administration department is ( ). (A) Within 2 hours (B) Within 4 hours (C) Within 12 hours (D) Within 24 hours",
+        "output": "(D) Within 24 hours"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "An 8-year-old boy suffered a trauma to his right elbow joint. Local X-rays were taken to diagnose a supracondylar fracture of the humerus. Two manual reduction attempts were unsuccessful. He was admitted to the hospital 48 hours after the injury. Physical examination: The right elbow joint is in a semi-flexed position, with severe swelling, obvious tenderness, difficulty in finger movement, weak radial artery pulse, and cold and numb fingers. It should be diagnosed as combined supracondylar humeral fracture ( ). (A) Main vein injury (B) Brachial artery injury (C) Muscle rupture injury (D) Median, ulnar and radial nerve injury",
+        "output": "(B) Brachial artery injury"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The virus most likely to cause post-transfusion hepatitis is ( ). (A) HBV (B) HAV (C) HCV (D) HDV",
+        "output": "(C) HCV"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A disease in which the basal metabolic rate is lower than the normal range is ( ). (A) Leukemia (B) Pituitary obesity (C) Heatstroke (D) Diabetes",
+        "output": "(B) Pituitary obesity"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "An indication of internal bleeding after thoracic surgery is that the amount of blood drained from the drainage tube per hour continues to exceed ( ). (A) 150ml (B) 100ml (C) 200ml (D) 500ml",
+        "output": "(C) 200ml"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A primiparous woman, 23 years old, had regular uterine contractions for 10 hours and was observed continuously for 2 hours. The cervix dilated from 6cm to 7cm, the fetal head was +1, and the fetal heart rate was 140 beats/min. The appropriate disposal should be ( ). (A) Closely observe the progress of labor (B) Inject oxytocin intravenously (C) Immediately perform artificial rupture of membranes (D) Immediately perform cesarean section",
+        "output": "(A) Closely observe the progress of labor"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The main metastasis pathway of gastric cancer is ( ). (A) Direct spread (B) Lymphatic metastasis (C) Hematogenous metastasis (D) Pelvic metastasis",
+        "output": "(B) Lymphatic metastasis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "How long does it take for scarlet fever to appear rash after fever ( ). (A) Within 12 hours (B) 12～48 hours (C) 60～72 hours (D) More than 96 hours",
+        "output": "(B) 12～48 hours"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Patient, male, 6 years old. If a coarse holosystolic murmur of grade 2 to 3 or above is heard in the 3rd to 4th intercostal space on the left sternal edge, the first consideration is ( ). (A) Mitral stenosis (B) Aortic regurgitation (C) Mitral regurgitation (D) Ventricular septal defect",
+        "output": "(D) Ventricular septal defect"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. Which of the above is the strongest stimulatory factor that stimulates secretin secretion ( ). (A) Hydrochloric acid (B) Gastrin (C) Acetylcholine (D) Sugar",
+        "output": "(A) Hydrochloric acid"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "For acute Q-wave myocardial infarction, seek medical attention within 6 hours of onset to recanalize the occluded coronary artery and limit the infarct area. The preferred treatment is ( ). (A) Coronary angiography and stent implantation (B) Absolute bed rest and oxygen inhalation (C) Intravenous nitroglycerin (D) Intravenous thrombolytic treatment",
+        "output": "(A) Coronary angiography and stent implantation"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A person's red blood cells agglutinate with the serum of type B blood, and his serum also agglutinates with the red blood cells of type B blood. This person's blood type is ( ). (A) Type A (B) Type AB (C) Type B (D) Type Rh",
+        "output": "(A) Type A"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "How many molecules of ATP can be produced when one glucose unit in a glycogen molecule is broken down into lactic acid through the glycolysis pathway? (　) (A) 2 (B) 1 (C) 3 (D) 5",
+        "output": "(C) 3"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Treatment of angle-closure glaucoma should be ( ). (A) Pilocarpine (B) Galantamine (C) Atropine (D) Norepinephrine",
+        "output": "(A) Pilocarpine"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "When blood sodium cannot be measured, the type of fluid replacement should be selected ( ). (A) 2/3 sheet of sodium-containing liquid (B) Isotonic sodium-containing liquid (C) 1/2 sheet of sodium-containing liquid (D) 1/4 sheet of sodium-containing liquid",
+        "output": "(C) 1/2 sheet of sodium-containing liquid"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Among the following items, the ones that do not belong to the maternal and childbirth health care services stipulated in the law are ( ). (A) Pregnant and maternal health care (B) Occupational health care for pregnant women (C) Fetal health care (D) Newborn health care",
+        "output": "(B) Occupational health care for pregnant women"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. The \"Regulations on the Handling of Medical Accidents\" stipulates that the disability living allowance should be compensated according to the disability level, starting from the month of disability ( ). (A) 10 years (B) 15 years (C) 20 years (D) 30 years",
+        "output": "(D) 30 years"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. The core purpose of human experimentation is ( ). (A) Experiments using patients as subjects (B) True informed consent must be obtained during human experiments (C) What needs to be followed when selecting subjects (D) Ensure the physical and mental safety of subjects",
+        "output": "(D) Ensure the physical and mental safety of subjects"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The discontinuation index of antibiotic treatment for pneumococcal pneumonia is ( ). (A) Fever subsides in 3 days (B) Fever subsides in 5 to 7 days (C) Symptoms and signs disappear (D) Chest X-ray lesions subside",
+        "output": "(A) Fever subsides in 3 days"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The patient, a 1-year-old girl, was still exclusively breastfed and unwilling to take complementary foods. In the past month, her complexion became increasingly pale, she was less active, and she picked up dirt to eat. Blood picture: Hb60g/L, RBC3.05×1012/L, WBC8×109/L, PLT225×109/L, MCV74pg, MCH26fl, MCHC28%. 3. The best treatment option for this child is ( ). (A) Iron plus vitamin C (B) Iron plus blood transfusion (C) Iron plus vitamin B12 (D) Prednisone plus iron",
+        "output": "(A) Iron plus vitamin C"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 16 years old. I had low-grade fever, cough, and pharyngeal discomfort for 2 weeks. Chest X-ray showed reticular and patchy infiltration shadows distributed in the lower parts of both lungs, and blood WBC was 10×109/L3. The first choice of therapeutic drugs ( ). (A) Penicillin (B) Erythromycin (C) Ramifon+rifampicin (D) Ribavirin",
+        "output": "(B) Erythromycin"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Regarding the description of hepatitis D (HD) and hepatitis D virus (HDV), the incorrect statement is ( ). (A) HDV is a defective virus whose core contains single-stranded negative-strand circular RNA and nucleoprotein (HDAg) (B) HDV capsid is that of Hepadnaviridae viruses (C) Basis for diagnosing HD or HDV infection Detect HDV RNA and anti-HDIgM and IgG in serum, while free HDAg only exists in liver cells and cannot be detected in serum (D) The infection form of HDV is superinfection with Hepadnaviridae (such as HBV) or coinfection",
+        "output": "(C) The diagnosis of HD or HDV infection is based on the detection of HDV RNA, anti-HDIgM and IgG in serum, while free HDAg only exists in liver cells and cannot be detected in serum."
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 14 years old. After eating marine fish for lunch, headache, dizziness, chest tightness, accelerated heartbeat and breathing, accompanied by conjunctival congestion, and flushing of the face and body will occur. The body temperature was normal and there were no symptoms such as vomiting or diarrhea. The patient is most likely to be ( ). (A) Puffer fish poisoning (B) Histamine poisoning (C) Clostridium botulinum toxin poisoning (D) Paralytic shellfish poisoning",
+        "output": "(B) Histamine poisoning"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. Hyperacute rejection of transplanted organs is due to ( ). (A) Antibodies against the recipient's ABO blood group are pre-existing in the donor (B) Antibodies against the HLA class I antigen of the recipient are pre-existing in the donor (C) Antibodies against the donor's ABO blood group are pre-existing in the recipient (D) There are Tc cells in the recipient that target the donor’s tissues and organs.",
+        "output": "(C) The recipient has pre-existing ABO blood group antibodies against the donor."
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following does not meet the characteristics of adult idiopathic thrombocytopenic purpura ( ). (A) Women may only present with menorrhagia (B) Splenomegaly, usually more than 5cm below the ribs (C) Oral mucosal blood blisters (D) Gum bleeding",
+        "output": "(B) Splenomegaly, usually more than 5cm below the ribs"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. The changes in cell morphology in microcytic hypochromic anemia are ( ). (A) MCV＞94fl, MCH＞32pg, MCHC35% (B) MCV＜80fl, MCH＜28pg, MCHC35% (C) MCV＜80fl, MCH＜28pg, MCHC＜32% (D) MCV＜80fl, MCH30pg, MCHC＞32%",
+        "output": "(C) MCV＜80fl、MCH＜28pg、MCHC＜32%"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The period during the cardiac cycle when the left ventricular volume is largest is ( ). (A) End of rapid ejection phase (B) End of slowed ejection phase (C) End of slowed filling phase (D) End of atrial systole",
+        "output": "(D) End of housing contraction period"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Cytokine genes are introduced into the body so that they can exert immunomodulatory effects. Methods to achieve the purpose of treating tumors by directly inhibiting tumor cell growth or indirectly activating anti-tumor immune functions and other mechanisms are ( ). (A) Adoptive immunotherapy (B) Immunomodulation (C) Immune-directed therapy (D) None of the above",
+        "output": "(D) None of the above"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Regarding the epidemiological manifestations of viral hepatitis, the incorrect statement is ( ). (A) Post-transfusion hepatitis is only seen in hepatitis B or C (B) Hepatitis A can be food- or water-borne outbreaks (C) Transmission by close contact within the family can occur in various types of hepatitis (D) HBV and HCV can both vertical transmission from mother to child",
+        "output": "(A) Post-transfusion hepatitis is only seen with hepatitis B or C"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. The first choice for idiopathic grand mal attacks ( ). (A) Sodium valproate (B) Carbamazepine (C) Ethosuximide (D) ACTH",
+        "output": "(A) Sodium valproate"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A 5-year-old girl had a fever with a body temperature of 38°C. She developed a rash one day after the fever. It started on the face and spread all over the body within 24 hours. The rash subsided within 72 hours. Lymph nodes behind the occipital and behind the ears were swollen. The most likely diagnosis was ( ). (A) Rash in young children (B) Scarlet fever (C) Hand, foot and mouth disease (D) Rubella",
+        "output": "(D) Rubella"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The correct treatment for syphilis in pregnancy is ( ). (A) Tetracycline hydrochloride can be taken orally (B) Doxycycline can be taken orally (C) Penicillin is the first choice (D) Treatment for the entire pregnancy",
+        "output": "(C) Penicillin is preferred"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "5-FU is an analogue of which base? (　) (A) U (B) C (C) G (D) T",
+        "output": "(D) T"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The following enzymes that do not participate in the second phase reaction of liver biotransformation are ( ). (A) Sulfotransferase (B) Glutathione-S-transferase (C) Peptidyltransferase (D) Methyltransferase",
+        "output": "(C) Peptidyl transferase"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. High ER content belongs to ( ). (A) Cyclophosphamide, doxorubicin, fluorouracil (B) Cyclophosphamide, paclitaxel, fluorouracil (C) Hormone-independent tumors (D) Hormone-dependent tumors",
+        "output": "(D) Hormone-dependent tumors"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "For early-stage lung cancer, the preferred treatment method is ( ). (A) Radiotherapy (B) Radiotherapy plus chemotherapy (C) Surgery (D) Immunotherapy",
+        "output": "(C) Surgical treatment"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. The 5-year survival rate after radical surgery is 65% ( ). (A) Splenic flexure colon cancer, Duke stage C (B) Transverse colon cancer, Duke stage A2 (C) Sigmoid colon cancer, Duke stage D (D) Descending colon cancer, Duke stage B",
+        "output": "(D) Descending colon cancer, Duke B stage"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A 5-year-old child suffered from edema for 1 week, which worsened for 2 days. It was initially limited to the eyelids and gradually spread to the whole body. The urine output has decreased significantly since yesterday, 150 to 200ml per day. Urine test: protein (+), red blood cells 20/HP, blood pressure 120/75mmHg. Treatment should be selected ( ). (A) Intravenous injection of 50% glucose (B) Oral administration of hydrochlorothiazide (C) Intravenous injection of 20% mannitol (D) Intravenous injection of furosemide",
+        "output": "(D) Intravenous administration of furosemide"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. Essential hypertension ( ). (A) Gangrene of the lower limbs (B) Myocardial infarction (C) Intimal plaque formation in large and medium arteries (D) None of the above lesions exist",
+        "output": "(D) None of the above lesions exist"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The most suitable treatment with aspirin is ( ). (A) Gastrointestinal spasmodic colic (B) Menstrual pain (C) Angina pectoris (D) Renal angina",
+        "output": "(B) Menstrual pain"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "What is not a variation indicator is ( ). (A) Median (B) Standard deviation (C) Range (D) Coefficient of variation",
+        "output": "(A) Median number"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. DIC secondary hyperfibrinolysis stage ( ). (A) Increased platelets (B) Decreased fibrinogen (C) Shortened PT (D) 3P test (+)",
+        "output": "(D) 3P test (+)"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. Drugs that can inhibit DNA viruses are ( ). (A) Tetracycline (B) Ribavirin (C) Fluconazole (D) Lincomycin",
+        "output": "(B) Ribavirin"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. Pleural effusion produced by systemic lupus erythematosus is ( ). (A) Exudate (B) Purulent pleural effusion (C) Bloody pleural effusion (D) Chylous pleural effusion",
+        "output": "(A) Exudate"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The most common cause of hypopituitarism is ( ). (A) Sheehan syndrome (B) Various pituitary tumors (C) Primary empty sella turcica (D) Diabetic vasculopathy",
+        "output": "(B) Various pituitary tumors"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Regarding clinical medical research involving human subjects, the correct answer is ( ). (A) Must be submitted to the Ethics Committee for review before starting (B) Must be submitted for Ethics Committee review while in progress (C) Must be submitted for Ethics Committee review after starting (D) As long as international and domestic standards are followed, there is no need to submit to the Ethics Committee for review",
+        "output": "(A) Must be submitted for ethics committee review before commencing"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The patient, a 40-year-old male, suffered from acute suppurative peritonitis. The blood pressure was 75/45mmHg, and despite active anti-shock treatment, it still did not improve. The most appropriate treatment at this time is ( ). (A) Surgical exploration as soon as possible (B) Measurement of central venous pressure (C) Rapid blood transfusion (D) Anti-shock and sent to the operating room for surgery",
+        "output": "(D) Anti-shock and sent to the operating room for surgery"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "For patients suspected of having typhoid fever who have taken antibiotics and have negative blood culture, ( ) should be done to confirm the diagnosis. (A) Blood eosinophil count (B) Bone marrow culture (C) Stool culture (D) Feida reaction",
+        "output": "(B) Bone marrow culture"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The ions that play a key role in the excitation-contraction coupling of skeletal muscles are ( ). (A) K+ (B) Cl- (C) Mg2+ (D) Ca2+",
+        "output": "(D) Ca2+"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which is not a planned immunization for infants under 1 year old? (　) (A) Measles vaccine (B) Pneumococcal vaccine (C) Polio vaccine (D) Hepatitis B vaccine",
+        "output": "(B) Streptococcus pneumoniae vaccine"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The therapeutic index refers to ( ). (A) ED50/LD50 (B) ED50/TD50 (C) The larger the ratio, the more toxic the drug is (D) LD50/ED50",
+        "output": "(D) LD50/ED50"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Female, 25 years old. Palpitations, night sweats, and irritability were found for 1 year, accompanied by increased food intake and weight loss. Physical examination: BP 110/80mmHg, severe exophthalmos, diffuse thyroid enlargement, deep into the superior mediastinum behind the sternum, heart rate 116 beats/min. The blood T3 and T4 values ​​were twice as high as the upper limit of the reference value. 2. Patients should undergo surgical treatment as soon as possible, and the indications are ( ). (A) Increased TSH (B) Diffuse thyroid enlargement (C) The thyroid gland is located behind the sternum (D) Severe exophthalmos",
+        "output": "(C) The thyroid gland is located behind the sternum"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following is a major factor in determining the infectivity of a virus? (　) (A) Envelope (B) Nucleic acid (C) Capsid (D) Particle",
+        "output": "(B) Nucleic acid"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which does not cause hepatocyte steatosis ( ). (A) Alcohol poisoning (B) Carbon tetrachloride poisoning (C) Diphtheria (D) High-fat diet",
+        "output": "(D) High-fat diet"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The most common pathogenic bacteria of infectious pleurisy are ( ). (A) Hemolytic Streptococcus (B) Staphylococcus aureus (C) Mycobacterium tuberculosis (D) Pseudomonas aeruginosa",
+        "output": "(C) Mycobacterium tuberculosis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following statements about subcutaneous nodules is incorrect? (A) Found in 5% to 10% of patients with rheumatic fever (B) Distributed on the flexors of the elbow, wrist, ankle, and knee joints (C) Appears a few weeks after onset (D) Disappears naturally in 2 to 4 weeks",
+        "output": "(B) Distributed on the flexor sides of elbow, wrist, ankle and knee joints"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A 7-month-old child suffered from pneumonia, with a body temperature of 39°C, eyes turned up, convulsions, coma, and bulging anterior fontanelle. Prompt to merge with ( ). (A) Heart failure (B) Toxic encephalopathy (C) Hypocalcemic seizure (D) Hypoglycemia",
+        "output": "(B) Toxic encephalopathy"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 32 years old. After drinking alcohol 2 days ago, I developed right upper quadrant pain that radiated to my right shoulder. Physical examination: right upper abdominal muscle tension and tenderness (+), Murphy's sign (+). The most likely diagnosis is ( ). (A) Duodenal ulcer (B) Acute gastritis (C) Acute cholecystitis (D) Right kidney stone",
+        "output": "(C) Acute cholecystitis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. The drugs used to rescue moderate and severe organophosphate poisoning are ( ). (A) Atropine + pilocarpine (B) Atropine + pralidoxime iodide (C) Norepinephrine (D) Cromoglycate sodium",
+        "output": "(B) Atropine + pralidoxime iodide"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 22 years old, started getting sick half a year ago. He has headaches and dizziness at times, with variable location and no treatment. He talks a lot. He wants to run a factory with 1,000 people, be a manager, travel around the world, and has several girlfriends. , emotions are running high. He was diagnosed with mania, and his symptoms disappeared after treatment with lithium carbonate and chlorpromazine. Neurological examination was unremarkable. After 2 months, he became conscious, indifferent to emotion, spoke little and moved slowly, did not take a shower or change clothes, had good memory, had no suicidal ideation, had severe paroxysmal headaches, and banged his head against the wall for about half an hour each time. He had a major epileptic seizure and projectile vomiting. Nervous system examination: fundus papilledema, increased muscle tone in the right limb, and positive Papillon sign. The electroencephalogram showed moderate abnormalities, with a large number of pathological high-amplitude 0 waves, more on the left side. Brain ultrasound showed that the midline moved 0.3cm to the right. 2. The diagnosis is most likely ( ). (A) Depression (B) Mania (C) Mental disorders caused by brain tumors (D) Mental disorders caused by epilepsy",
+        "output": "(C) Mental disorders caused by brain tumors"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following will not cause iron deficiency anemia ( ). (A) Gastrojejunostomy (B) Malnutrition (C) Chronic intravascular hemolysis (D) After ileal resection",
+        "output": "(D) After ileal resection"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The child is 10 months old and has become pale in the past month. The child was born at full term and had normal growth and development. He has not suffered from any diseases and is breastfed. His mother was healthy during pregnancy and lactation. The child was diagnosed with iron deficiency anemia through examination, and the main cause of the disease was ( ). (A) Excessive iron loss (B) Insufficient iron intake (C) Iron absorption disorder (D) Excessive growth and development",
+        "output": "(B) Insufficient iron intake"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Regarding the pathogenesis of acute carbon monoxide poisoning, which of the following is incorrect ( ). (A) Mainly tissue hypoxia (B) COHb loses oxygen-carrying capacity (C) COHb is easily dissociated (D) Symptoms of systemic and central hypoxia are mainly",
+        "output": "(C) COHb is easy to dissociate"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A 28-year-old female, married, went to the hospital due to weight loss, fatigue, polyphagia, and palpitations for 3 months. She had been taking oral contraceptives for the past 2 years. 3. When clinical and laboratory examinations confirm the diagnosis of Graves' disease, which treatment should this patient choose? (　) (A) Methimazole treatment (B) Propylthiouracil treatment + propranolol treatment (C) Potassium perchlorate treatment (D) Potassium carbonate treatment",
+        "output": "(B) Propylthiouracil treatment + propranolol treatment"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The legal liability that persons in charge of medical institutions, drug purchasers, physicians and other relevant personnel shall bear when accepting property or other benefits from drug manufacturers, drug operating companies or their agents does not include ( ). (A) Confiscation of illegal gains (B) Revocation of physician’s practicing certificate (C) Civil liability (D) Criminal liability",
+        "output": "(C) Civil liability"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A 2-year-old girl came to the clinic due to delayed growth and mental development. This child had poor feeding, abdominal distension, constipation, less crying and less movement, hoarse cry after birth, and edema of the face and eyelids in the past 2 to 3 months. He still cannot speak or walk. Physical examination: body temperature 35.7°C, heart rate 66 beats/mm, respiration 22 times/min, rough skin, dry hair, dull expression, hoarse voice, widely spaced eyes, flat nose bridge, tongue sticking out of the mouth, edema of facial eyelids, auscultation of both lungs There were no rales, low heart sounds, abdominal distension, umbilical hernia, and weak muscle tone in the limbs. 3. The best treatment drug to choose is ( ). (A) γ-hGH (B) Dopamine (C) Levothyroxine sodium (D) Calcium",
+        "output": "(C) Levothyroxine sodium"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Hemorrhagic fever with renal syndrome, oliguric phase, combined with high blood volume, loud pulse, increased heart rate, obvious difficulty breathing, and then hemoptysis, the reason is ( ). (A) Heart failure and pulmonary edema (B) Pulmonary infection (C) DIC (D) Uremic acidosis",
+        "output": "(A) Heart failure and pulmonary edema"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The rare clinical manifestations of chronic adrenal insufficiency are ( ). (A) Hypotension (B) Hypokalemia (C) Hypoglycemia (D) Anemia",
+        "output": "(B) Hypokalemia"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "An elderly male, 70 years old, with post-traumatic X-ray showing: fracture of the lower end of the radius without obvious displacement. The treatment that this patient should choose is ( ). (A) Symptomatic treatment (B) Surgical treatment (C) Swelling treatment (D) Manual reduction, splint or plaster fixation",
+        "output": "(D) Manual reduction, splint or plaster fixation"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. The causative agent of hemorrhagic fever with renal syndrome is ( ). (A) Gonococcus (B) Coxsackie group B virus (C) Bacillus anthracis (D) Hantavirus",
+        "output": "(D) Hantavirus"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. The cause of pharyngeal conjunctival fever is ( ). (A) Coxsackie virus (B) Adenovirus (C) Human herpesvirus type 6 (D) Respiratory syncytial virus",
+        "output": "(B) Adenovirus"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Antibiotics are mostly metabolized by which microorganisms? (　) (A) Viruses (B) Bacteria and fungi (C) Actinomycetes and fungi (D) Chlamydia",
+        "output": "(C) Actinomycetes and fungi"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. Must be strictly disinfected and processed under the guidance and supervision of health and epidemic prevention agencies ( ). (A) Sewage contaminated by Class A infectious disease pathogens (B) Items used by suspected Class B infectious disease patients (C) Items used by suspected Class C infectious disease patients (D) Sewage contaminated by Class C infectious disease pathogens",
+        "output": "(A) Sewage contaminated by Class A infectious disease pathogens"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A patient came to the doctor with chest pain for 2 hours. The electrocardiogram showed that the QRS waves in leads V1 to V3 were Qrs-shaped, and the ST segment was arched upward with T wave inversion. The location of myocardial infarction was diagnosed ( ). (A) Inferior wall (B) Anteroseptal wall (C) Anterior wall (D) Lateral wall",
+        "output": "(B) Anteroseptal wall"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which statement is incorrect regarding SLE joint pathology? (A) Symmetrical damage to multiple joints (B) Proximal interphalangeal joints are mostly affected (C) Articular cartilage is destroyed and joint deformity occurs (D) Large joints are rarely affected",
+        "output": "(C) Articular cartilage destruction and joint deformity"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Female, 32 years old. I have a history of heart disease for 4 years. I have been experiencing palpitations recently, and auscultation revealed that my heart rate was 100 beats/min, my heart rhythm was absolutely irregular, my first heart sound varied in intensity, and there was a diastolic rumble-like murmur at the apex of my heart. 1. The most likely findings on auscultation are ( ). (A) Sinus tachycardia (B) Atrial fibrillation (C) Premature ventricular contractions (D) Premature atrial contractions",
+        "output": "(B) Atrial fibrillation"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "When dealing with medical accidents, the principles that should be followed are justice, fairness, and openness ( ). (A) Timely and beneficial to the people (B) Accurate and beneficial to the people (C) Convenient and accurate (D) Timely and convenient",
+        "output": "(D) Timely and convenient"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The incorrect description of HAV is ( ). (A) It is a single-stranded positive-sense RNA virus (B) It can be multiplied and passaged in tissue culture (C) Both feces and blood of patients are infectious (D) It generally does not become chronic",
+        "output": "(C) Both the patient's feces and blood are infectious"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The first symptom of malnutrition is ( ). (A) No weight gain (B) Subcutaneous fat is reduced or disappeared (C) Body length is lower than normal (D) Muscle tone is low, body temperature is low, and mental retardation",
+        "output": "(A) No weight gain"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "A normal child has an anterior fontanel of 2.0cm × 2.0cm and a weight of 7kg. He can sit alone for a while, shake toys with his hands, and recognize acquaintances and strangers. His age in months is ( ). (A) 8 months (B) 6 months (C) 3 months (D) 12 months",
+        "output": "(B) 6 months"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "3. Attention should be paid when conducting water deprivation tests ( ). (A) Appropriate restriction of drinking water (B) Hypokalemia (C) Closely monitor blood pressure and weight (D) Hyponatremia",
+        "output": "(C) Closely monitor blood pressure and weight"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Regarding female genital tuberculosis, the correct statement is ( ). (A) Cervical tuberculosis is the most common among reproductive tract tuberculosis (B) Fallopian tube tuberculosis is mostly bilateral and spreads from endometrial tuberculosis (C) Endometrial tuberculosis can cause adhesion, deformation, and shrinkage of the uterine cavity (D) Pelvic peritoneal tuberculosis is divided into adhesion type and exudation type. The adhesion type is less likely to form fistulas.",
+        "output": "(C) Endometrial tuberculosis can cause adhesion, deformation, and shrinkage of the uterine cavity"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following changes occurs first during acute inflammation? (　) (A) Arterioles and capillaries dilate (B) Arterioles constrict (C) Blood flow slows down (D) Leukocytes adhere to the wall",
+        "output": "(B) Arteriole constriction"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. People who are stubborn and insistent have a lack of will activity ( ). (A) Decisiveness (B) Perseverance (C) Self-control (D) Independence",
+        "output": "(B) Toughness"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "1. Abdominal fluid accumulation in inflammation ( ). (A) Abdominal effusion, with high fluid specific gravity and low protein content (B) Abdominal effusion, with high fluid cell content and low protein content (C) Abdominal effusion, with high fluid cell content and high protein content (D) Abdominal effusion , low liquid specific gravity, low protein content",
+        "output": "(C) Abdominal effusion, fluid with high cell content and high protein content"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 23 years old, farmer, was hospitalized in November due to fever, headache, and vomiting for 3 days. Physical examination: The face and neck are flushed, and there are a few bleeding spots under both armpits. Urine routine: protein (++), red blood cells 3 to 10/HP. Routine blood test: WBC 23.0×109/L, atypical lymphocytes 10%, PLT 48×109/L. 1. The patient's diagnosis may be ( ). (A) Epizootic cerebrospinal meningitis (B) Typhus (C) Epidemic hemorrhagic fever (D) Septicemia",
+        "output": "(C) Epidemic hemorrhagic fever"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following is the most common cause of primary aldosteronism? (　) (A) Aldosterone carcinoma (B) Aldosteronoma (C) Ectopic aldosterone-secreting tumor (D) Glucocorticoids can inhibit hyperaldosteronism",
+        "output": "(B) Aldosteronoma"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Female, 50 years old. The metacarpophalangeal and wrist joints have been repeatedly swollen and painful for more than 2 years, and the condition has worsened in the past month. Joint stiffness occurs in the morning, which can be relieved after activity. The first diagnosis to consider is ( ). (A) Rheumatoid arthritis (B) Gout (C) Ankylosing spondylitis (D) Rheumatoid arthritis",
+        "output": "(D) Rheumatoid arthritis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Patient, male, 50 years old. He was admitted to the hospital with repeated chest tightness and palpitations for 5 months. Physical examination revealed a heart murmur, and cardiac M-mode echocardiography revealed mitral valve thickening, calcification, and valve stiffness. The most likely diagnosis is ( ). (A) Mitral valve stenosis (B) Mitral valve prolapse (C) Normal mitral valve (D) Tricuspid valve stenosis",
+        "output": "(A) Mitral valve stenosis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Lymphocytes that express CD40L are ( ). (A) Resting B cells (B) Activated B cells (C) Activated T cells (D) Activated NK cells",
+        "output": "(C) Activated T cells"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following is not a symptom of generalized anxiety disorder? （　） (A) Rapid heartbeat (B) Frequent urination and urgency (C) Feeling of impending death (D) Headache and muscle aches",
+        "output": "(C) Dying feeling"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following is a more common inflammatory cell in chronic inflammation? (　) (A) Basophils (B) Neutrophils (C) Mononuclear macrophages (D) Mast cells",
+        "output": "(C) Mononuclear phagocytes"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Male, 27 years old. The right index finger had redness, swelling and pain next to the nail for 1 day. The area was stabbed by a wooden thorn 3 days ago. Laboratory tests: blood WBC 15.0×109/L, N 0.79. The common bacteria causing infection in this patient are ( ). (A) Staphylococcus aureus (B) Escherichia coli (C) Clostridium tetani (D) Pseudomonas aeruginosa",
+        "output": "(A) Staphylococcus aureus"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Objective standards for medical ethics evaluation ( ). (A) Conducive to human health, the alleviation and recovery of patients' diseases (B) Conducive to human health, and the protection and improvement of the human living environment (C) Conducive to human health, promoting the development of medical science, and protecting the human living environment and improvement (D) is beneficial to human health, promotes the development of medical science, and is beneficial to the relief and recovery of patients' diseases.",
+        "output": "(C) Conducive to human health, promoting the development of medical science, and protecting and improving the human living environment"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following is not the first choice for digitalis treatment? (A) Frequent atrial premature contractions with transient atrial tachycardia (B) Rapid atrial fibrillation (C) Preexcitation syndrome with paroxysmal supraventricular tachycardia (D) Cardiac insufficiency with sinus sexual tachycardia",
+        "output": "(C) Preexcitation syndrome with paroxysmal supraventricular tachycardia"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Female, 48 years old. I have been thirsty for the past month. The daily water intake is about 2000ml. Height 156cm, weight 70kg. The patient's fasting blood sugar was 7.6 mmol/L, and his postprandial blood sugar was 14.8mmol/L. No history of diabetes in the past. 3. [Hypothetical information] The patient was found to have invasive pulmonary tuberculosis 4 years later, and hypoglycemic treatment should be used ( ). (A) Increase the dose of the original hypoglycemic drug (B) Switch to an oral hypoglycemic drug with a stronger hypoglycemic effect (C) Use insulin (D) Combined use of biguanides, sulfonylureas, and alpha-glucosidase inhibitors",
+        "output": "(C) Use insulin"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Female, 33 years old. A lump in the right breast was discovered 5 months ago. Physical examination: The bilateral breasts and nipples were symmetrical, the nipples were not sunken, and the skin had no orange peel-like changes. A 1.4cm × 2.5cm mass was palpable in the upper outer quadrant of the right breast, with medium quality, smooth surface, and mobility. No enlarged lymph nodes were palpable in the axilla. The preferred treatment method is ( ). (A) Long-term oral administration of Chinese patent medicines for promoting blood circulation and removing blood stasis (B) Long-term oral administration of tamoxifen (C) Breast lobectomy (D) Mass removal and rapid pathological examination",
+        "output": "(D) Mass resection and rapid pathological examination"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "After patients with iron deficiency anemia take iron supplements, the blood picture will first appear as ( ). (A) Hemoglobin rises first (B) Reticulocytes rise first (C) Hemoglobin and reticulocytes rise simultaneously (D) Immature red blood cells appear",
+        "output": "(B) Reticulocytes rise first"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "The child was 6 years old and had clinical manifestations of nephrotic syndrome. Renal biopsy showed no obvious changes in the glomeruli and a large amount of lipid deposition in the renal tubular epithelial cells. This nephritis is ( ). (A) IgA nephropathy (B) Crescentic nephritis (C) Mild change nephritis (D) Membranoproliferative nephritis",
+        "output": "(C) Mild change nephritis"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "Which of the following statements about aortic atherosclerosis is incorrect? (　　) (A) Can cause dissecting aneurysm (B) Can cause aortic valve disease (C) Thoracic aorta disease is the most serious (D) Can cause secondary ulcers, calcification, bleeding, and thrombosis",
+        "output": "(C) Thoracic aorta is the most severely affected"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "2. Which of the above is a core purpose of human experimentation? (　) (A) Experiments using patients as subjects (B) Experiments using humans as subjects (C) True informed consent must be achieved during human experiments (D) Ensure the physical and mental safety of the subjects",
+        "output": "(D) Ensure the physical and mental safety of subjects"
+    },
+    {
+        "instruction": "Please think step by step and select the most suitable choice. Output format:\nExplanation:<your reasoning>\nAnswer:<correct choice>",
+        "input": "In the diagnosis and treatment consent system, if the patient’s opinions are not unanimous, whose opinion should be used as the basis for diagnosis and treatment ( ). (A) The patient himself (B) The doctor makes an independent decision (C) Those who are beneficial to the patient’s diagnosis and treatment (D) The patient’s family or related persons",
+        "output": "(A) The patient himself"
+    }
+]

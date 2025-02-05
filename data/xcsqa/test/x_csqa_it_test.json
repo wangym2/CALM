@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: In quale zona degli Stati Uniti orientali si può trovare un anemone?\nA. aiuola\nB. chiavi della florida\nC. lato marea\nD. mare corallino\nE. acquario\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Indipendentemente dalla data, sappiamo tutti che l'universo è cosa?\nA. infiniverse\nB. molto vecchio\nC. ringiovanire\nD. infinite\nE. reale\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se una persona non è spessa, che cosa è?\nA. snello\nB. sparse\nC. non conosciuto\nD. magro\nE. a flusso libero\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Un governo cosa cerca di fare sul suo popolo?\nA. Paese\nB. disordine\nC. città\nD. controllo\nE. sole\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quando si incontra un amico, cosa si fa in genere all'inizio?\nA. stringere la mano\nB. sorriso\nC. saluta\nD. prendere il caffè\nE. dare un abbraccio\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Che cosa farebbe una persona per aiutare qualcuno che non è in grado di parlare in modo coerente?\nA. linguaggio dei segni\nB. bere tè\nC. frase completa\nD. sentirsi arrabbiati\nE. strada trasversale\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Il grafico lavorava con le piastrelle, queste piastrelle digitali costituivano le mappe di una cosa?\nA. gioco per computer\nB. pavimento\nC. arte\nD. canzone\nE. tetto\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: È più probabile che un musicista esegua un concerto per clarinetto con quale tipo di gruppo?\nA. negozio di musica\nB. banda jazz\nC. orchestra\nD. gruppo rock\nE. studio musicale\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Bob sale al secondo piano verso la sua camera da letto, dov'è?\nA. scuola\nB. edificio per uffici\nC. albergo\nD. casa\nE. albergo\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Sage amava comunicare Cosa gli piaceva fare con i suoi coetanei?\nA. risposta\nB. confusione\nC. pressione dei pari\nD. scambio di idee\nE. apprendimento\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: John viveva in una piccola isola circondata da H2O liquida e fluida Dove poteva vivere?\nA. Giappone\nB. hawaii\nC. mississippi river\nD. oceano pacifico\nE. corpo idrico\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Spesso aveva sete di notte e aveva bisogno di bere, così ha sempre avuto un comodino ovunque abbia vissuto in tutti i suoi quanto?\nA. negozio di mobili\nB. vita\nC. corridoio\nD. albergo\nE. case\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Il bambino era dispettoso nei confronti dei suoi genitori, cosa ha fatto?\nA. diventare adulti\nB. riuscito\nC. crescere\nD. fare domande\nE. recitazione\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa deve fare una pianta per farne crescere un'altra?\nA. dado\nB. aumento delle dimensioni\nC. rinunciare\nD. piante\nE. diventa più grande\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Come chiamiamo la televisione che ci piace molto guardare?\nA. divertente\nB. legale\nC. complesso costoso e poco flessibile\nD. obsoleto\nE. fantastico\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Qual è il risultato probabile della preghiera che porta al risultato desiderato?\nA. rabbia\nB. contemplazione\nC. sollievo\nD. meditazione\nE. essere confortati\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Gli amici si sono riuniti intorno al tavolo per giocare a carte e cosa?\nA. bevanda\nB. buono a\nC. ricordare\nD. annoiato\nE. divertirsi\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Ha provato a comunicare via radio, ma cosa ha sentito dall'altro capo?\nA. progresso\nB. statico\nC. collaborazione\nD. confusione\nE. suono\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se uno aveva bisogno del bagno aveva bisogno di una chiave, e per ottenerla doveva anche comprare qualcosa dal cosa?\nA. scuola\nB. area di sosta\nC. minimarket\nD. centro commerciale\nE. teatro\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se fossi molto eccitato all'idea di incontrare persone che sono parenti stretti, quale emozione proverei?\nA. annoiarsi\nB. ansia\nC. amore\nD. fare nuove amicizie\nE. brutto\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa ci si aspetta normalmente che dica un gatto?\nA. vedi re\nB. miagolio\nC. ciao\nD. bere acqua\nE. vivere molti anni\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Si sentiva in imbarazzo per aver rovesciato la ciotola della zuppa, conosceva il cameriere che doveva pulire perché era al suo cosa preferito?\nA. mobile\nB. lavatrice\nC. appartamento\nD. lavastoviglie\nE. ristorante\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Qual è un'attività all'aperto pericolosa per i bambini?\nA. giochi\nB. casa sbagliata\nC. sole stesso\nD. guardare la televisione\nE. tavola imbandita\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quando un agricoltore guadagna più terra, qual è la conseguenza positiva attesa?\nA. controversie\nB. guadagnare di più\nC. più lavoro\nD. maggiore responsabilità\nE. tasse più alte\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Le due squadre erano davvero in competizione tra loro, e si erano date da fare per cosa?\nA. rabbia\nB. sconfitta\nC. sudore\nD. lotta\nE. aggression\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: John prese posto a tavola, insieme agli altri.  Cosa avranno fatto?\nA. cucina\nB. costruzione\nC. riunione\nD. internet café\nE. edificio\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: In quale edificio sarebbe più probabile sentire le campane la domenica mattina?\nA. coller di renna\nB. stufa\nC. scuola\nD. chiesa\nE. porta d'ingresso\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove viaggiano le api?\nA. nei campi di fiori\nB. cielo\nC. campo di fiori\nD. frutteto\nE. Stati Uniti\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dopo un po' di tempo di gioco, cosa succedeva ai bambini?\nA. combattimenti\nB. stanchezza\nC. divertirsi\nD. competitività\nE. apprendimento\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si può trovare una volpe inventata?\nA. libro di fiabe\nB. bosco\nC. pollaio\nD. habitat naturale\nE. cortile posteriore\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Qual è il luogo più probabile per più di uno stadio?\nA. città universitaria\nB. grande città\nC. condurre i giochi olimpici\nD. Grecia\nE. Roma\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Mi sono seduto, le tende si sono abbassate e mi sono goduto il cosa?\nA. aereo\nB. spettacolo\nC. auditorium\nD. teatro\nE. film\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Perché le persone vogliono giocare?\nA. divertimento\nB. tenere il punteggio\nC. cercare di vincere\nD. tentativo di vincere\nE. annoiato\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa farei se venissi aggredito?\nA. rimanere in vita\nB. sbarazzarsi di\nC. difendersi\nD. attaccato\nE. cadere\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Ha trovato che le opzioni abitative nel Midwest sono semplici, dove dovrebbe cercare case con un'architettura meno semplice?\nA. paesaggio\nB. azawakh\nC. America centrale\nD. campagna\nE. georgia\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se un essere umano vuole stare in un luogo caldo, qual è un buon posto dove stare?\nA. battaglia\nB. medico\nC. Messico\nD. posto di lavoro\nE. in frigorifero\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se dietro un albero c'è una fonte di luce, cosa ci si aspetta che accada?\nA. fornire un riparo\nB. proiettare l'ombra\nC. diramazione\nD. bloccare il vento\nE. cadere\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: John stava facendo il bagno in una sorgente calda pubblica in Giappone, ma era imbarazzato. In cosa non si sentiva a suo agio?\nA. pulizia\nB. altre persone\nC. pelle secca\nD. nudità\nE. utilizzare il sapone\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quale area potrebbe contenere un grande villaggio?\nA. area rurale\nB. Ohio\nC. periferia\nD. grande città\nE. campagna\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Sam era un tecnico del suono.  Era bravo in questo lavoro, perché il suono era il modo in cui capiva il mondo.   Cosa poteva mancare a Sam?\nA. visione\nB. silenzio\nC. pace\nD. film\nE. tranquillo\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Billy voleva tornare a casa, ma sua madre gli disse di fare cosa?\nA. scappare\nB. congedo\nC. andare via\nD. backspace\nE. andare via\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: A Sam piaceva ubriacarsi.  Lo faceva per cosa?\nA. nausea\nB. dormire\nC. combattimenti\nD. rilassamento\nE. vomito\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove andrei a vedere un musicista che suona un rullante in un teatro?\nA. orchestra\nB. piano\nC. banda del liceo\nD. banda musicale\nE. batteria\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Una persona che non può permettersi la propria casa, che cosa sta vivendo?\nA. vivono in povertà\nB. inganno\nC. schizofrenia\nD. sentimenti negativi\nE. ricchezza\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: James decise che gareggiare era la scelta giusta.   Non gareggiare ha un risultato definito, ma se gareggia cosa potrebbe accadere?\nA. potrebbe vincere\nB. prestazioni migliori\nC. nemici\nD. vincitori e vinti\nE. perdere\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Sally osservava dalla buca dell'orchestra l'entrata in scena degli attori.  In che tipo di edificio si trova?\nA. teatro dell'opera\nB. culo\nC. auditorium\nD. sala da musica\nE. teatro\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Stavano preparando i crauti, l'istruttore spiegò che il liquido doveva trovarsi sopra il cavolo in cosa?\nA. può\nB. bicchiere per bere\nC. vaso\nD. contenitore\nE. vaso\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Il piatto era sporco, dove l'aveva messo la donna?\nA. rifiuti\nB. armadio da cucina\nC. tavolo\nD. lavastoviglie\nE. mercato delle pulci\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si compra di solito la lozione abbronzante da prescrizione?\nA. borsa da spiaggia\nB. negozio di alimentari\nC. farmacia\nD. negozio\nE. salone di abbronzatura\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove è probabile che gli studenti utilizzino una struttura di parcheggio?\nA. dietro il garage.\nB. centro commerciale\nC. grande città\nD. campus universitario\nE. chicago\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Mentre saltavano le pietre, dove ne cercavano di nuove?\nA. Passo carrabile\nB. letto del fiume\nC. cistifellea\nD. cava\nE. letto del torrente\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Morire per soffocamento significa avere cosa?\nA. smettere di respirare\nB. cesserebbe di esistere\nC. niente più aria\nD. raffreddarsi\nE. morte e decadenza\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove non sareste in grado di vedere la luce?\nA. scrivania\nB. frigorifero\nC. sole\nD. attic\nE. universe\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove è probabile che ci sia una piscina vicino a casa vostra?\nA. cortile\nB. casa del vicino\nC. in albergo\nD. cascata\nE. ymca\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se si fa jogging tutto il giorno, cosa può succedere?\nA. miglioramento della salute\nB. attacchi cardiaci\nC. essere stanchi\nD. gambe forti\nE. stinchi della tibia\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa serve per essere bravi a guidare le auto?\nA. concentrarsi\nB. divertirsi\nC. parco\nD. ascoltare la radio\nE. eccesso di velocità\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quale prato è più probabile che si trovi su una strada?\nA. cortile verde\nB. periferia\nC. campo da golf\nD. michigan\nE. cortile anteriore\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: L'allenatore ha deciso di cambiare la formazione, perché l'impegno della squadra stava risentendo di cosa?\nA. stagnazione\nB. stagnant\nC. tradizione\nD. fame\nE. carta moneta\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: L'agricoltore canadese si chiedeva se le patate sarebbero cresciute nel luogo in cui viveva: qual era la sua probabile posizione?\nA. piatto principale\nB. Irlanda\nC. isola principe edward\nD. patatine fritte\nE. Idaho\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se una persona possiede una cosa di ogni tipo, cosa possiede?\nA. collezione completa\nB. devono tenere\nC. hobby\nD. procrastinare\nE. riconoscimento\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Decise di piantare dei pomodori in fila, dove sarebbe stata questa fila?\nA. auditorium\nB. dentiera\nC. orto\nD. il portico\nE. campo del contadino\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se si registra un programma televisivo per rivederlo, cosa si fa quando lo si guarda la prima volta?\nA. vedi di nuovo\nB. goduto\nC. riconsiderare\nD. guardare di nuovo\nE. trovato interessante\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Il rotore era molto rumoroso e muoveva molta aria, ma come faceva la cosa a sollevarsi direttamente?\nA. elicottero\nB. motore a reazione\nC. rotator\nD. treno\nE. motore elettrico\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si può trovare un estintore dietro il sedile?\nA. tromba delle scale\nB. casa\nC. giardino\nD. scuolabus\nE. garage\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa è illegale fare quando si gioca a carte in un casinò?\nA. ricordare\nB. Aiuto\nC. vincente\nD. conteggio\nE. spaccio\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa deve fare un consumatore accorto quando gli vengono presentate prove dell'efficacia di un prodotto che sembrano troppo belle per essere vere?\nA. esasperazione\nB. cambiamento di cuore\nC. scrutando\nD. noia\nE. leggere\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Per cosa si comprano le tazze nuove quando ci si trasferisce in città?\nA. appartamento\nB. ristorante\nC. tavolo\nD. zoo\nE. mobile da cucina\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se si desidera sciogliere il proprio matrimonio con un divorzio, con chi bisogna parlare?\nA. documentazione legale\nB. conflitto\nC. matrimonio\nD. avvocato\nE. essere sposati\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quando le persone iniziano a conoscere la scienza e vengono messe di fronte a fatti scientifici concreti, molti di loro si rivolgono a cosa, nonostante quello che possono aver imparato da piccoli?\nA. esperimento\nB. arabo\nC. ateismo\nD. conoscenza scientifica\nE. nuove idee\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quale veicolo a gas utilizza una catena per muovere la ruota posteriore?\nA. moto\nB. bicicletta\nC. auto\nD. carro attrezzi\nE. cambio di marcia\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Giocare a baseball è molto simile a qualsiasi altro sport, c'è sempre il rischio di cosa?\nA. muscoli doloranti\nB. infortunio\nC. felicità\nD. errori\nE. divertimento\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si può trovare un campo da tennis per non professionisti?\nA. club di atletica\nB. centro ricreativo\nC. country club\nD. campus universitario\nE. zoo\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: I due conglomerati hanno deciso di raggiungere un accordo provvisorio per cosa?\nA. smettere di discutere\nB. realizzare\nC. fare affari\nD. progredire\nE. scavare buche\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: John aveva bisogno di un cavo dritto.  Sfortunatamente, questo aveva subito alcuni maltrattamenti ed era diventato cosa?\nA. diritto\nB. piegato\nC. storto\nD. piegato\nE. curvo\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Quale città è nota per le sue straordinarie pizzerie?\nA. bufalo\nB. chicago\nC. area ristoro\nD. piccola italia\nE. città capitali\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Mentre cadeva in un mucchio di vetri rotti, cosa temeva?\nA. infortunio\nB. essere derisi\nC. rompere il vetro\nD. lacerazioni\nE. contatto con\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se avete bisogno di una toilette mentre siete in viaggio, dove potete fermarvi?\nA. area di sosta\nB. biblioteca\nC. ristorante\nD. edificio per uffici\nE. stazione di servizio\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se non dormite bene, probabilmente cosa siete?\nA. tempo di dormire\nB. buio\nC. chiudere gli occhi\nD. caduta\nE. stanco\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se qualcuno ama le temperature fresche, potrebbe avere più di un ventilatore elettrico dove?\nA. casa\nB. ferramenta\nC. casa\nD. camera calda\nE. ufficio\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Aveva detto che avrebbe preparato la cena, ma prima doveva fare cosa?\nA. affamato\nB. acquistare una cucina\nC. acquistare generi alimentari\nD. acquistare cibo\nE. mangiare cibo\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Gli uccelli, a volte, cosa fanno l'uno all'altro per stabilire la propria dominanza?\nA. cielo\nB. compagno\nC. becco\nD. foresta\nE. portello\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Parlare con qualcuno è inutile se sta facendo cosa?\nA. bocca secca\nB. sussurro\nC. essere ascoltati\nD. non ascoltare\nE. contatto visivo\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si può guidare l'automobile alla massima velocità legale?\nA. ippodromo\nB. corsia preferenziale\nC. autostrada\nD. lato della strada\nE. intersezione\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Cosa trasporta il sangue verso il cuore?\nA. pompe\nB. ospedale\nC. vena\nD. persona\nE. gioco del calcio\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: L'oggetto non suonava bene perché una delle sue gambe era irregolare.  Cosa potrebbe essere l'oggetto?\nA. filatoio\nB. spazio per le gambe\nC. grand piano\nD. letto d'ospedale\nE. sedia da ufficio\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Trovò strano che durante la lezione il professore si mettesse a predicare, e ancora più strano quando i suoi compagni di corso cominciarono a fare cosa?\nA. addormentarsi\nB. deriso\nC. apprendimento\nD. prendere appunti\nE. applaudire\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Una cosa che si fa richiede uno sforzo e cos'altro?\nA. progredire\nB. fare la pace\nC. prendere tempo\nD. fare la guerra\nE. gentilezza\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: I gatti mi stuzzicano sempre con il loro?\nA. fare le fusa\nB. quattro zampe\nC. quattro gambe\nD. baffi\nE. due occhi\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: La mattina tornate al lavoro, la sera?\nA. ottenere la vita\nB. lasciare il lavoro\nC. alzarsi dal letto\nD. vestito\nE. andare alla riunione\nRisposta:",
+    "output": "B"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove si può trovare un certo numero di strumenti a fiato insieme in pubblico?\nA. sinfonia\nB. creare musica\nC. zoo\nD. sala musica\nE. negozio di musica\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Il suo studio non andava da nessuna parte, riportò il dizionario sotto la gamba traballante di cosa?\nA. sedia\nB. biblioteca\nC. scaffale\nD. aula\nE. tavolo\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: A cosa può portare imparare a conoscere il mondo da un chiuso?\nA. illuminazione\nB. cinismo\nC. comprensione\nD. confusione\nE. tristezza\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Da quale mezzo la gente si rifornisce di birra?\nA. bottiglia\nB. un negozio di liquori\nC. negozio di alimentari\nD. frigorifero\nE. casinò\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Che cosa si può fare a chi è accusato di aver ucciso le persone che ama?\nA. ritorsione\nB. tristezza\nC. andare a casa\nD. rimorso\nE. andare in prigione\nRisposta:",
+    "output": "A"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: In quale luogo in cui si pratica uno sport al coperto ci sono solitamente dei posti a sedere dietro un tabellone?\nA. area di sosta\nB. mostra\nC. pista da bowling\nD. navetta spaziale\nE. palcoscenico\nRisposta:",
+    "output": "C"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Perché una persona tesa dovrebbe ascoltare musica soft?\nA. sordità\nB. calma\nC. fame\nD. rilassamento\nE. addormentarsi\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Era l'ora della colazione.  Brad ordinò uova, pane tostato e qualcosa da bere. Cosa avrebbe potuto bere?\nA. vino\nB. vomitare\nC. cibo\nD. ubriacarsi\nE. caffè\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Se due persone hanno un obiettivo comune, come possono raggiungerlo?\nA. sono d'accordo l'uno con l'altro\nB. stringere la mano\nC. fare l'amore\nD. divertirsi\nE. lavorare insieme\nRisposta:",
+    "output": "E"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Dove è deliziosa la salsa di pomodoro?\nA. mercato\nB. frigorifero\nC. coltivato nell'orto\nD. pizza\nE. torta\nRisposta:",
+    "output": "D"
+  },
+  {
+    "instruction": "Rispondi alla domanda a scelta multipla. La tua risposta dovrebbe includere una spiegazione e UNA risposta corretta A o B o C o D. Mantieni la tua risposta concisa. Usa l'italiano per rispondere alla domanda. Formato di output:\nSpiegazione:<la tua spiegazione>\nRisposta:<opzione corretta>",
+    "input": "Domanda: Che cosa significa chattare con gli amici?\nA. comunicazione\nB. felicità\nC. risate\nD. accordo\nE. divertimento\nRisposta:",
+    "output": "A"
+  }
+]

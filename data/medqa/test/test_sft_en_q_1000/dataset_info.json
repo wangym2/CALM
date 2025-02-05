@@ -1,0 +1,17 @@
+{
+    "all_test_en2cn": {
+        "file_name": "all_test_en2cn.json"
+    },
+    "all_test_native_en": {
+        "file_name": "all_test_native_en.json"
+    },
+    "test_en2cn_299": {
+        "file_name": "test_en2cn_299.json"
+    },
+    "test_native_en_299": {
+        "file_name": "test_native_en_299.json"
+    },
+    "all_test_en2fr": {
+        "file_name": "all_test_en2fr.json"
+    }
+}

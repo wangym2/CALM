@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo im Osten der USA findet man eine Anemone?\nA. Blumenbeet\nB. florida-schlüssel\nC. Gezeitenseite\nD. Korallenmeer\nE. Aquarium\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Egal, welches Datum Sie angeben, wir alle wissen, dass das Universum was ist?\nA. unendlich viele\nB. sehr alt\nC. jünger werdend\nD. endlos\nE. real\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn eine Person nicht dick ist, was ist sie dann?\nA. schlank\nB. verstreut\nC. Unbekanntes\nD. Skinny\nE. frei fließend\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was will eine Regierung über ihr Volk?\nA. Land\nB. Störung\nC. Stadt\nD. Kontrolle\nE. Sonne\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was macht man in der Regel als erstes, wenn man einen Freund trifft?\nA. Hände schütteln\nB. Lächeln\nC. grüßen\nD. Kaffee trinken\nE. eine Umarmung geben\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was würde man tun, um jemandem zu helfen, der nicht in der Lage ist, verständlich zu sprechen?\nA. Zeichensprache\nB. Tee trinken\nC. vollständiger Satz\nD. sich ärgern\nE. Querstraße\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der Grafikdesigner arbeitete mit Kacheln, diese digitalen Kacheln bildeten die Karten eines was?\nA. Computerspiel\nB. Boden\nC. Kunst\nD. Lied\nE. Dach\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Mit welcher Art von Gruppe wird ein Musiker am ehesten ein Konzert für Klarinette aufführen?\nA. Musikgeschäft\nB. Jazzband\nC. Orchester\nD. Rockband\nE. Musikstudio\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Bob geht in den zweiten Stock in sein Schlafzimmer, wo ist er?\nA. Schule\nB. Bürogebäude\nC. Hotel\nD. Haus\nE. Hotel\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sage liebte es, zu kommunizieren. Was tat er gerne mit Gleichaltrigen?\nA. Antwort\nB. Verwirrung\nC. Gruppenzwang\nD. Austausch von Ideen\nE. Lernen\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: John lebte auf einer kleinen Insel, umgeben von flüssigem H2O. Wo könnte er leben?\nA. Japan\nB. hawaii\nC. Mississippi\nD. Pazifischer Ozean\nE. Gewässerkörper\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Nachts hatte er oft Durst und brauchte etwas zu trinken, deshalb hatte er immer einen Nachttisch, wo auch immer er lebte, in all seinen was?\nA. Möbelhaus\nB. Leben\nC. hallway\nD. Hotel\nE. Häuser\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Das Kind war böse auf seine Eltern, was hat es getan?\nA. erwachsen werden\nB. gelungen\nC. erwachsen werden\nD. ask questions\nE. auslebend\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was muss eine Pflanze tun, damit eine andere wächst?\nA. die\nB. sich vergrößernd\nC. aufgeben\nD. Pflanzen\nE. wird größer\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wie nennen wir das Fernsehen, das wir gerne und viel sehen?\nA. unterhaltsam\nB. legal\nC. komplex, teuer und unflexibel\nD. veraltet\nE. Fantastisch\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was ist das wahrscheinliche Ergebnis des Gebets, das zu dem gewünschten Ergebnis führt?\nA. Wut\nB. Kontemplation\nC. Relief\nD. Meditation\nE. getröstet werdend\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Die Freunde versammelten sich um den Tisch, um Karten zu spielen und was?\nA. trinken\nB. gut in\nC. erinnern Sie sich an\nD. gelangweilt\nE. Spaß haben\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Er versuchte, über Funk zu kommunizieren, aber was hörte er am anderen Ende?\nA. Fortschritte\nB. statisch\nC. Zusammenarbeit\nD. Verwirrung\nE. Klang\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn man die Toilette brauchte, brauchte man einen Schlüssel, und um ihn zu bekommen, musste man auch etwas kaufen, was?\nA. Schule\nB. Rastplatz\nC. Lebensmittelgeschäft\nD. Einkaufszentrum\nE. Theater\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn ich mich sehr darauf freuen würde, Menschen zu treffen, die mir sehr nahe stehen, welche Emotion würde ich dann empfinden?\nA. sich langweilend\nB. Ängste\nC. Liebe\nD. neue Freunde finden\nE. hässlich\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was würden Sie normalerweise von einer Katze erwarten?\nA. siehe König\nB. miau\nC. hallo\nD. Wasser trinken\nE. viele Jahre leben\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Es war ihm peinlich, dass er seine Suppenschüssel verschüttet hatte, er kannte den Kellner, der das wegmachen musste, weil er bei seinem Lieblingsessen war.\nA. Schrank\nB. Waschmaschine\nC. Wohnung\nD. Geschirrspüler\nE. Restaurant\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was ist eine gefährliche Aktivität im Freien für Kinder?\nA. Spiele spielen\nB. falsches Haus\nC. sich sonnen\nD. fernsehen\nE. gedeckter Tisch\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn ein Landwirt mehr Land gewinnt, was ist die erwartete positive Folge?\nA. Streitigkeiten\nB. mehr Geld verdienen\nC. mehr Arbeit\nD. mehr Verantwortung\nE. höhere Steuern\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Die beiden Teams haben wirklich miteinander konkurriert, sie hatten sich eine was?\nA. Wut\nB. besiegen\nC. Schweiß\nD. kämpfen\nE. Aggression\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: John nahm seinen Platz am Tisch ein, zusammen mit den anderen.  Was mögen sie getan haben?\nA. Küche\nB. Konstruktion\nC. Treffen\nD. Internetcafé\nE. Gebäude\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: In welchem Gebäude würden Sie am Sonntagmorgen am ehesten Glocken hören?\nA. Rentierkoller\nB. Herd\nC. Schule\nD. Kirche\nE. Vordertür\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo verbringen die Bienen ihre Zeit auf Reisen?\nA. in Blumenfeldern\nB. Himmel\nC. Blumenwiese\nD. Obstgarten\nE. vereinigte staaten\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was geschah nach einer Weile des Spielens mit den Kindern?\nA. kämpft\nB. müde werdend\nC. Spaß haben\nD. Wettbewerbsfähigkeit\nE. Lernen\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo findet man einen Fuchs, der erfunden ist?\nA. Bilderbuch\nB. Wälder\nC. Hühnerstall\nD. natürlicher Lebensraum\nE. Hinterhof\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo ist der wahrscheinlichste Ort für mehr als ein Stadion?\nA. Universitätsstadt\nB. Großstadt\nC. Durchführung der olympischen Spiele\nD. griechenland\nE. Rom\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Ich nahm Platz, die Vorhänge zogen sich zurück und ich genoss das was?\nA. Flugzeug\nB. anzeigen\nC. Hörsaal\nD. Theater\nE. Film\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Warum wollen Menschen Spiele spielen?\nA. Spaß\nB. den Spielstand registrieren\nC. versuchen zu gewinnen\nD. Gewinnversuch\nE. gelangweilt\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was würde ich tun, wenn ich angegriffen werden würde?\nA. am Leben bleiben\nB. abwimmeln\nC. sich verteidigen\nD. angegriffen\nE. herunterfallen\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sie fand die Wohnmöglichkeiten im Mittleren Westen schlicht, wo sollte sie nach Häusern mit weniger schlichter Architektur suchen?\nA. Landschaft\nB. azawakh\nC. Mittelamerika\nD. Landleben\nE. georgien\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn ein Mensch an einem warmen Ort sein möchte, wo ist ein guter Ort dafür?\nA. Schlacht\nB. Doktor\nC. mexiko\nD. Arbeitsplatz\nE. im Kühlschrank\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was würde passieren, wenn sich eine Lichtquelle hinter einem Baum befindet?\nA. Schutz bieten\nB. Schlagschatten\nC. sich verzweigen\nD. Windschutz\nE. herunterfallen\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: John wollte in einer öffentlichen heißen Quelle in Japan baden, aber es war ihm peinlich. Womit fühlte er sich nicht wohl?\nA. Sauberkeit\nB. andere Menschen\nC. trockene Haut\nD. Nacktheit\nE. Seife verwenden\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: In welchem Gebiet befindet sich wahrscheinlich ein großes Dorf?\nA. ländlicher Raum\nB. ohio\nC. Vororte\nD. Großstadt\nE. Landleben\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sam war ein Tontechniker.  Er war gut in seinem Job, denn er verstand die Welt über den Ton.   Was könnte Sam gefehlt haben?\nA. Vision\nB. Schweigen\nC. Frieden\nD. Film\nE. leise\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Billy wollte nach Hause zurückkehren, aber seine Mutter sagte ihm, er solle was tun?\nA. weglaufen\nB. verlassen\nC. weggehend\nD. Rücktaste\nE. weggehen\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sam hat sich gerne betrunken.  Wozu hat er es getan?\nA. Übelkeit\nB. schlafen\nC. kämpft\nD. Entspannung\nE. Erbrechen\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo würde ich hingehen, um einen Musiker zu sehen, der in einem Theater eine kleine Trommel spielt?\nA. Orchester\nB. Plan\nC. Highschool-Band\nD. Spielmannszug\nE. Schlagzeug\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Eine Person, die sich ihre Wohnung nicht leisten kann, was erlebt sie wahrscheinlich?\nA. in Armut leben\nB. Täuschung\nC. schizophrenia\nD. schlechte Gefühle\nE. Reichtum\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: James beschloss, dass die Teilnahme am Wettbewerb die richtige Entscheidung war.   Nicht anzutreten hat ein bestimmtes Ergebnis, aber wenn er antritt, was könnte dann passieren?\nA. könnte gewinnen\nB. mehr leisten\nC. Feinde\nD. Gewinner und Verlierer\nE. verlieren\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sally beobachtete vom Orchestergraben aus, wie die Spieler auf die Bühne kamen.  In was für einem Gebäude ist sie?\nA. Opernhaus\nB. Hintern\nC. Hörsaal\nD. Musiksaal\nE. Theater\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sie machten Sauerkraut, und der Lehrer erklärte, dass die Flüssigkeit über dem Kohl in der was?\nA. kann\nB. Trinkglas\nC. Topf\nD. Container\nE. Krug\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der Teller war schmutzig, wo hatte die Frau ihn hingestellt?\nA. Müll\nB. Küchenschrank\nC. Tabelle\nD. Geschirrspüler\nE. Flohmarkt\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo kaufen Sie typischerweise verschreibungspflichtige Sonnenschutzmittel?\nA. Strandtasche\nB. Lebensmittelladen\nC. Apotheke\nD. Shop\nE. Bräunungsstudio\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo werden Studenten ein Parkhaus wahrscheinlich nutzen?\nA. hinter der Garage.\nB. Einkaufszentrum\nC. Großstadt\nD. College-Campus\nE. chicago\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo haben sie beim Überspringen von Steinen nach neuen Steinen gesucht?\nA. Einfahrt\nB. Flussbett\nC. Gallenblase\nD. Steinbruch\nE. Bachbett\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Durch Ersticken zu sterben bedeutet, dass Sie was haben?\nA. aufhören zu atmen\nB. würde aufhören zu existieren\nC. keine Luft mehr\nD. erkältend\nE. Tod und Verfall\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo würden Sie kein Licht sehen können?\nA. Schreibtisch\nB. Kühlschrank\nC. Sonne\nD. Dachboden\nE. Universum\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo gibt es in der Nähe Ihres eigenen Hauses einen Pool?\nA. Hinterhof\nB. Nachbarhaus\nC. im Hotel\nD. waterfall\nE. ymca\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn Sie den ganzen Tag joggen, was wird dann wohl passieren?\nA. verbesserte Gesundheit\nB. Herzinfarkte\nC. müde sein\nD. kräftige Beine\nE. Schienbeinkantensyndrom\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was braucht man, um gut Auto fahren zu können?\nA. Konzentrat\nB. Spaß haben\nC. Park\nD. Radio hören\nE. Geschwindigkeitsübertretung\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Welcher Rasen befindet sich am ehesten an einer Straße?\nA. grüner Hof\nB. Vorstadt\nC. Golfplatz\nD. michigan\nE. Vorgarten\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der Trainer beschloss, die Aufstellung zu ändern, denn worunter litt die Leistung der Mannschaft?\nA. Stagnation\nB. stagniert\nC. Tradition\nD. hunger\nE. Papiergeld\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der kanadische Landwirt fragte sich, ob dort, wo er lebte, Kartoffeln wachsen würden, und wo sein wahrscheinlicher Standort war.\nA. Hauptgang\nB. ireland\nC. prinz-edward-insel\nD. Pommes frites\nE. Idaho\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn eine Person von jeder Art einer Sache eine hat, was hat sie dann?\nA. komplette Sammlung\nB. halten müssen\nC. Hobby\nD. prokrastinieren\nE. Anerkenntnis\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Er beschloss, Tomaten in einer Reihe zu pflanzen, wo würde diese Reihe sein?\nA. Hörsaal\nB. Zahnreihe\nC. Gemüsegarten\nD. die Veranda\nE. Bauernfeld\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn du eine Fernsehsendung aufnimmst, um sie dir noch einmal anzusehen, was tust du dann, wenn du sie das erste Mal gesehen hast?\nA. siehe wieder\nB. genossen\nC. Überdenken Sie\nD. erneut beobachten\nE. interessant gefunden\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der Rotor war sehr laut und bewegte eine Menge Luft, aber es war, wie das, was in der Lage war, gerade nach oben zu heben?\nA. Hubschrauber\nB. Jet-Motor\nC. Rotator\nD. Zug\nE. Elektromotor\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo ist ein Feuerlöscher hinter dem Sitz zu finden?\nA. Treppenhaus\nB. Haus\nC. Garten\nD. Schulbus\nE. Garage\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was darf man nicht tun, wenn man in einem Kasino Karten spielt?\nA. erinnern Sie sich an\nB. Hilfe\nC. gewinnen\nD. zählen\nE. Umgang mit\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was sollte ein kluger Verbraucher tun, wenn ihm Beweise für die Wirksamkeit eines Produkts vorgelegt werden, die zu gut erscheinen, um wahr zu sein?\nA. Enttäuschung\nB. Sinneswandel\nC. Prüfen\nD. Langeweile\nE. lesen\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wozu kauft man neue Tassen, wenn man in die Stadt zieht?\nA. Wohnung\nB. Restaurant\nC. Tabelle\nD. zoo\nE. Küchenschrank\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Mit wem sollte man sprechen, wenn man seine Ehe auflösen und sich scheiden lassen möchte?\nA. legale Formalitäten\nB. Konflikt\nC. Ehe\nD. Rechtsanwalt\nE. verheiratet zu sein\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn Menschen anfangen, sich mit Wissenschaft zu befassen und mit harten wissenschaftlichen Fakten konfrontiert werden, entscheiden sich viele von ihnen für was, ungeachtet dessen, was sie vielleicht in ihrer Kindheit gelernt haben?\nA. Experiment\nB. arabisch\nC. Atheismus\nD. wissenschaftliche Kenntnisse\nE. neue Ideen\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Welches Gasfahrzeug verwendet eine Kette, um das Hinterrad zu bewegen?\nA. Motorrad\nB. Fahrrad\nC. Auto\nD. Abschleppwagen\nE. Gangschaltung\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Beim Baseball ist es wie bei jeder anderen Sportart: Es besteht immer ein Risiko, was?\nA. Muskelkater\nB. Verletzung\nC. Glück\nD. Fehler\nE. Spaß\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo kann man einen Tennisplatz für Nichtprofis finden?\nA. Sportverein\nB. Erholungszentrum\nC. Country-Club\nD. College-Campus\nE. zoo\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Worauf haben sich die beiden Konglomerate vorläufig geeinigt?\nA. aufhören zu streiten\nB. erreichen\nC. Geschäfte machen\nD. Fortschritte machen\nE. Löcher graben\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: John brauchte einen geraden Draht.  Unglücklicherweise hatte dieser Draht einige Misshandlungen überstanden und war was geworden?\nA. geradeaus\nB. gebogen\nC. schief\nD. gebogen\nE. gekrümmt\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Welche Stadt ist für ihre tollen Pizzerien bekannt?\nA. Büffel\nB. chicago\nC. Lebensmittelgericht\nD. Klein-Italien\nE. Hauptstädte\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wovor hatte er Angst, als er in einen Haufen Glasscherben fiel?\nA. Verletzung\nB. ausgelacht zu werden\nC. das Glas brechen\nD. Risswunden\nE. Kontakt mit\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn Sie unterwegs eine Toilette brauchen, wo können Sie anhalten?\nA. Rastplatz\nB. Bibliothek\nC. Gaststätte\nD. Bürogebäude\nE. Tankstelle\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn Sie nicht gut geschlafen haben, sind Sie wahrscheinlich was?\nA. Zeit zum Schlafen\nB. Dunkelheit\nC. Augen schließen\nD. herunterfallend\nE. müde\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn jemand kühle Temperaturen mag, hat er vielleicht mehr als einen elektrischen Ventilator, wo?\nA. Startseite\nB. Baumarkt\nC. Startseite\nD. Wärmestube\nE. Büro\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Er hatte gesagt, er würde das Abendessen kochen, aber was musste er zuerst tun?\nA. hungrig\nB. eine Küche kaufen\nC. Lebensmittel einkaufen\nD. Lebensmittel kaufen\nE. Nahrung zu sich nehmen\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was tun Vögel einander manchmal an, um ihre Dominanz zu beweisen?\nA. Himmel\nB. Kumpel\nC. picken\nD. Wald\nE. Luke\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Mit jemandem zu reden ist sinnlos, wenn er was tut?\nA. trockener Mund\nB. Flüstern\nC. gehört werdend\nD. nicht zuhörend\nE. Blickkontakt\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo können Sie mit Ihrem Auto mit der höchsten zulässigen Geschwindigkeit fahren?\nA. Pferderennbahn\nB. Überholspur\nC. Autobahn\nD. Fahrbahnrand\nE. Kreuzung\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was transportiert das Blut zum Herzen?\nA. Pumpen\nB. Krankenhaus\nC. Venen\nD. Person\nE. Fußballspiel\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Der Gegenstand hörte sich nicht richtig an, weil eines seiner Beine uneben war.  Was könnte der Gegenstand sein?\nA. Spinnrad\nB. Beinfreiheit\nC. Flügel\nD. Krankenhausbett\nE. Bürostuhl\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Er fand es merkwürdig, dass der Professor in der Vorlesung predigte, und noch merkwürdiger, als seine Kommilitonen anfingen, was?\nA. einschlummern\nB. lachte\nC. Lernen\nD. Notizen machen\nE. applaudieren\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Etwas, das man tut, erfordert Anstrengung und was noch?\nA. Fortschritte machen\nB. Frieden schließen\nC. sich Zeit nehmen\nD. Krieg führen\nE. Freundlichkeit\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Katzen kitzeln mich immer mit ihren?\nA. Schnurren\nB. vier Pfoten\nC. four legs\nD. Schnurrhaare\nE. zwei Augen\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Morgens kehren Sie zur Arbeit zurück, abends sind Sie?\nA. das Leben erhalten\nB. Arbeit verlassen\nC. aus dem Bett aufstehen\nD. gekleidet\nE. zum Treffen gehen\n\nAntwort:",
+    "output": "B"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo kann man eine Reihe von Blasinstrumenten gemeinsam in der Öffentlichkeit sehen?\nA. Sinfonie\nB. Musik erstellen\nC. zoo\nD. Musikzimmer\nE. Musikgeschäft\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Sein Studium führte zu nichts, er legte das Wörterbuch wieder unter das wackelige Bein des was?\nA. Stuhl\nB. Bibliothek\nC. Regal\nD. Klassenzimmer\nE. Tabelle\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wozu kann das Lernen über die Welt von einem Eingeschlossenen führen?\nA. Erleuchtung\nB. Zynismus\nC. Verständnis\nD. Verwirrung\nE. Traurigkeit\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Aus welchem Medium beziehen die Leute ihr Bier?\nA. Flasche\nB. ein Spirituosengeschäft\nC. Lebensmittelladen\nD. Kühlschrank\nE. Kasino\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was wird man wohl mit jemandem machen, der beschuldigt wird, Menschen, die er liebt, getötet zu haben?\nA. Vergeltungsmaßnahmen\nB. Traurigkeit\nC. nach Hause gehen\nD. Gewissensbisse\nE. ins Gefängnis gehend\n\nAntwort:",
+    "output": "A"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: An welchem Ort, an dem man eine Hallensportart betreibt, gibt es normalerweise Sitzplätze hinter einer Anzeigetafel?\nA. Rastplatz\nB. anzeigen\nC. Bowlingbahn\nD. Spaceshuttle\nE. Bühne\n\nAntwort:",
+    "output": "C"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Warum sollte eine angespannte Person Musik hören, die leise ist?\nA. Taubheit\nB. ruhig\nC. hunger\nD. Entspannung\nE. einschlummern\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Es war Frühstückszeit.  Brad bestellte Eier, Toast und etwas zu trinken. Was könnte er trinken?\nA. Wein\nB. sich übergeben\nC. Lebensmittel\nD. sich besaufend\nE. Kaffee\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wenn zwei Menschen ein gemeinsames Ziel haben, wie können sie dieses Ziel erreichen?\nA. miteinander übereinstimmen\nB. Hände schütteln\nC. Liebe machen\nD. Spaß haben\nE. zusammenarbeiten\n\nAntwort:",
+    "output": "E"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Wo ist Tomatensauce lecker?\nA. Markt\nB. Kühlschrank\nC. im Gemüsegarten angebaut\nD. pizza\nE. Kuchen\n\nAntwort:",
+    "output": "D"
+  },
+  {
+    "instruction": "Beantworten Sie die Multiple-Choice-Frage. Ihre Antwort sollte eine Erklärung und EINE richtige Antwort A oder B oder C oder D enthalten. Halten Sie Ihre Antwort knapp. Verwenden Sie Deutsch, um die Frage zu beantworten. Ausgabeformat:\nErklärung:<Ihre Erklärung>\nAntwort:<richtige Option>",
+    "input": "Frage: Was ist eine Art von Chatten mit Freunden?\nA. Kommunikation\nB. Glück\nC. Lachen\nD. Vereinbarung\nE. Spaß\n\nAntwort:",
+    "output": "A"
+  }
+]

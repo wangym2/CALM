@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where off the eastern U.S. would you find an anemone?\nA. flower bed\nB. florida keys\nC. tide pool\nD. coral sea\nE. aquarium\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: No matter what date you put on it, we all know the universe to be what?\nA. infiniverse\nB. very old\nC. getting younger\nD. infinite\nE. real\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If a person isn't thick they are what?\nA. slender\nB. sparse\nC. unacquainted\nD. skinny\nE. free flowing\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: A government seeks what over it's people?\nA. country\nB. trouble\nC. city\nD. control\nE. sun\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: When meeting a friend, what does one generally do at first?\nA. shake hands\nB. smile\nC. say hi\nD. have coffee\nE. give a hug\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What would a person do to help someone that is not able to speak coherently?\nA. sign language\nB. drink tea\nC. complete sentence\nD. feel angry\nE. cross street\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The graphic designer worked in tile, these digital tiles made up the maps of a what?\nA. computer game\nB. floor\nC. art\nD. song\nE. roof\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: A musician is most likely to perform a concerto for clarinet with what type of group?\nA. music store\nB. jazz band\nC. orchestra\nD. rock band\nE. music studio\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Bob walks up to the second floor to his bedroom, where is he?\nA. school\nB. office building\nC. hotel\nD. house\nE. hotel\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Sage loved communicating  He liked doing what with his peers?\nA. response\nB. confusion\nC. peer pressure\nD. exchanging ideas\nE. learning\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: John lived in a small island surrounded by flowing liquid H2O   Where might he live?\nA. japan\nB. hawaii\nC. mississippi river\nD. pacific ocean\nE. body of water\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He often got thirsty at night and needed a drink, so he always had a night table everywhere he had lived in all his what?\nA. furniture store\nB. life\nC. hallway\nD. hotel\nE. homes\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The child was spiteful of his parents, what did he do?\nA. become adult\nB. succeeded\nC. grow up\nD. ask questions\nE. acting out\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: A plant must do what to make another grow?\nA. die\nB. increasing in size\nC. give up\nD. plants\nE. gets bigger\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What do we call television that we enjoy watching a lot?\nA. entertaining\nB. legal\nC. complex expensive and inflexible\nD. obsolete\nE. awesome\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is likely the result of praying leading to the desired outcome?\nA. anger\nB. contemplation\nC. relief\nD. meditation\nE. being comforted\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The friends gathered around the table to play cards and what?\nA. drink\nB. good at\nC. remember\nD. bored\nE. have fun\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He tried communicating by radio, but what did he hearing the other end?\nA. progress\nB. static\nC. collaboration\nD. confusion\nE. sound\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If one needed the bathroom they needed a key, to get it they had to also buy something from the what?\nA. school\nB. rest area\nC. convenience store\nD. mall\nE. theater\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If I was very excited about meeting people who were very close family, what emotion would I be feeling?\nA. being bored\nB. anxiety\nC. love\nD. making new friends\nE. ugly\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What would you normally expect a cat to say?\nA. see king\nB. meow\nC. hello\nD. drink water\nE. live many years\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He felt embarrassed he spilled his soup bowl, he knew the waiter who had to clean it up because he was at his favorite what?\nA. cabinet\nB. washing machine\nC. apartment\nD. dishwasher\nE. restaurant\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is a dangerous outdoor activity for children?\nA. play games\nB. wrong house\nC. sun themselves\nD. watch television\nE. set table\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: When a farmer is gaining more land what is the expected positive consequence?\nA. disputes\nB. making more money\nC. more work\nD. more responsibility\nE. higher taxes\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The two teams were really competing out there, they had all worked up a what?\nA. anger\nB. defeat\nC. sweat\nD. fight\nE. aggression\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: John took his place at the table, along with the others.  What might they have been doing?\nA. kitchen\nB. construction\nC. meeting\nD. internet cafe\nE. building\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What tpye of building would you be most likley to hear bells at on Sunday morning?\nA. reindeer coller\nB. stove\nC. school\nD. church\nE. front door\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where do bees spend time traveling?\nA. in flower fields\nB. sky\nC. field of flowers\nD. orchard\nE. united states\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: After a while playing, what was happening to the children?\nA. fights\nB. getting tired\nC. having fun\nD. competitiveness\nE. learning\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where would you find a fox that is made up?\nA. storybook\nB. woods\nC. hen house\nD. natural habitat\nE. back yard\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where is the most likely place for more than one stadium?\nA. college town\nB. large city\nC. conducting olympic games\nD. greece\nE. rome\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: I took my seat, the curtains drew back and I enjoyed the what?\nA. airplane\nB. show\nC. auditorium\nD. theatre\nE. movie\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Why do people want to play games?\nA. fun\nB. keep score\nC. try to win\nD. attempt to win\nE. bored\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What would I do if I was being attacked?\nA. stay alive\nB. get rid of\nC. defend yourself\nD. attacked\nE. fall down\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: She found the housing option in the midwest were plain, where should she look for houses for less plain architecture?\nA. landscape\nB. azawakh\nC. middle america\nD. countryside\nE. georgia\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If a human wants to be in a warm place, where is a good place to be?\nA. battle\nB. doctor\nC. mexico\nD. workplace\nE. in the fridge\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If there is a source of light behind a tree what would expect to happen?\nA. provide shelter\nB. cast shadow\nC. branch out\nD. block wind\nE. fall down\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: John was going bathing in a public hot spring in japan, but he was embarrassed. What wasn't he comfortable with?\nA. cleanliness\nB. other people\nC. dry skin\nD. nudity\nE. use soap\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What area is likely to contain a large village?\nA. rural area\nB. ohio\nC. suburbs\nD. big city\nE. countryside\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Sam was a sound engineer.  He was good at the job, because sound was how he understood the world.   What might Sam have lacked?\nA. vision\nB. silence\nC. peace\nD. movie\nE. quiet\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Billy wanted to return home, but his mother told him to do what?\nA. run away\nB. leave\nC. going away\nD. backspace\nE. go away\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Sam liked getting drunk.  He did it for what?\nA. nausea\nB. sleep\nC. fights\nD. relaxation\nE. vomiting\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where would I go to see a musician playing a snare drum in a theater?\nA. orchestra\nB. piano\nC. high school band\nD. marching band\nE. drum kit\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: A person, cannot afford their home, they are likely to be experiencing what?\nA. live in poverty\nB. deception\nC. schizophrenia\nD. bad feelings\nE. wealth\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: James decided that competing was the right choice.   Not competing has a defined outcome, but if he competes then what could happen?\nA. might win\nB. perform better\nC. enemies\nD. winners and losers\nE. lose\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Sally was watching from near the orchestra pit as the players came on stage.  What sort of building is she in?\nA. opera house\nB. butt\nC. auditorium\nD. music hall\nE. theatre\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: They were making sauerkraut, the instructor explained the liquid should be above the cabbage in the what?\nA. can\nB. drinking glass\nC. pot\nD. container\nE. jar\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The plate was dirty, where did the woman put it?\nA. garbage\nB. kitchen cupboard\nC. table\nD. dishwasher\nE. flea market\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: WHere do you typically buy prescription suntan lotion?\nA. beach bag\nB. grocery store\nC. pharmacy\nD. shop\nE. tanning salon\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where are student likely to utilize a parking structure?\nA. behind the garage.\nB. mall\nC. big city\nD. college campus\nE. chicago\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: As they skipped stones, where were they looking for new ones?\nA. driveway\nB. river bed\nC. gallbladder\nD. quarry\nE. creek bed\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Dying due to suffocation means you have what?\nA. stop breathing\nB. would cease to exist\nC. no more air\nD. getting cold\nE. death and decay\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where would you not be able to see light?\nA. desk\nB. fridge\nC. sun\nD. attic\nE. universe\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where is there likely to be a pool near your own home?\nA. backyard\nB. neighbor's house\nC. at hotel\nD. waterfall\nE. ymca\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If you are jogging all day what is likely to happen?\nA. improved health\nB. heart attacks\nC. being tired\nD. strong legs\nE. shin splints\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is required to be good at driving cars?\nA. concentrate\nB. have fun\nC. park\nD. listen to radio\nE. speeding\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What lawn is most likely to be on a street?\nA. green yard\nB. suburbia\nC. golf course\nD. michigan\nE. front yard\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The coach decided to make a lineup change, the team's effort was suffering from what?\nA. stagnation\nB. stagnant\nC. tradition\nD. hunger\nE. paper money\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The Canadian farmer wondered if potatoes would grow where he lived, where was his likely location?\nA. main course\nB. ireland\nC. prince edward island\nD. french fries\nE. idaho\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If a person has one of every kind of a thing, what do they have?\nA. complete collection\nB. have to hold\nC. hobby\nD. procrastinate\nE. acknowledgment\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He decided to plant tomatoes in a row, where would this row be?\nA. auditorium\nB. toothrow\nC. vegetable garden\nD. the porch\nE. farmer's field\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If you tape a television show to watch it again then you what when you watched it the first time?\nA. see again\nB. enjoyed\nC. reconsider\nD. watch again\nE. found interesting\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The rotor was very loud and moved a lot of air, but it was how the what was able to lift straight up?\nA. helicopter\nB. jet engine\nC. rotator\nD. train\nE. electric motor\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where is a fire extinguisher likely to be found behind the seat?\nA. stairwell\nB. house\nC. garden\nD. school bus\nE. garage\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is illegal to do when you play cards at a casino?\nA. remember\nB. help\nC. winning\nD. count\nE. dealing\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What should a savvy consumer do when being presented with proof for the effectiveness of a product that seem too good to be true?\nA. exasperation\nB. change of heart\nC. scrutinizing\nD. boredom\nE. read\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What do you buy new cups for when you move in the city?\nA. apartment\nB. restaurant\nC. table\nD. zoo\nE. kitchen cabinet\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If one wishes to dissolve their marriage by getting a divorce, who should one speak with?\nA. legal paperwork\nB. conflict\nC. marriage\nD. lawyer\nE. being married\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: When people start learning about science and presented with hard science facts, many of them turn to what, despite what they may have learned growing up?\nA. experiment\nB. arabic\nC. atheism\nD. scientific knowledge\nE. new ideas\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What gas vehicle uses a chain to move the back wheel?\nA. motorbike\nB. bicycle\nC. car\nD. tow truck\nE. gear shift\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Playing baseball is a lot like any other sport, there is always a risk of what?\nA. sore muscles\nB. injury\nC. happiness\nD. errors\nE. fun\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where can you find a tennis court for non professionals?\nA. athletic club\nB. recreational center\nC. country club\nD. college campus\nE. zoo\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The two conglomerates decided to reach  tentative agreement to what?\nA. stop arguing\nB. accomplish\nC. do business\nD. make progress\nE. digging holes\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: John needed a straight wire.  Unfortunately, this one had endured some abuse and had become what?\nA. straightforth\nB. bent\nC. crooked\nD. bent\nE. curved\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What city is known for amazing pizzerias?\nA. buffalo\nB. chicago\nC. food court\nD. little italy\nE. capital cities\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: While he was falling into a pile of broken glass, what did he fear?\nA. injury\nB. being laughed at\nC. breaking the glass\nD. lacerations\nE. contact with\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If you need a restroom while on the road where can you stop?\nA. rest area\nB. library\nC. resturant\nD. office building\nE. gas station\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If you haven't been sleeping well you are probably what?\nA. time to sleep\nB. darkness\nC. closing eyes\nD. falling down\nE. tired\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If somebody likes temperatures cool, they might have more than one electric fan where?\nA. home\nB. hardware store\nC. home\nD. hot room\nE. office\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He had said he would cook dinner, but first he needed to what?\nA. hungry\nB. buy a kitchen\nC. buy groceries\nD. buy food\nE. eat food\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Birds sometimes do what to each other to establish dominance?\nA. sky\nB. mate\nC. peck\nD. forest\nE. hatch\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Talking to someone is pointless if they're doing what?\nA. dry mouth\nB. whispering\nC. being heard\nD. not listening\nE. eye contact\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where can you drive your automobile at the highest legal speed?\nA. racetrack\nB. fast lane\nC. freeway\nD. side of road\nE. intersection\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What carries blood toward the heart?\nA. pumps\nB. hospital\nC. vein\nD. person\nE. soccer game\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: The item didn't sound right because one of it's legs were uneven.  What might the item be?\nA. spinning wheel\nB. legroom\nC. grand piano\nD. hospital bed\nE. office chair\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: He found it odd that while attending lecture the professor got preachy, and even weirder when his fellow students started to what?\nA. fall asleep\nB. laughed\nC. learning\nD. taking notes\nE. applaud\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Something you do requires effort and what else?\nA. make progress\nB. make peace\nC. take time\nD. make war\nE. kindness\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Cats always tickle me with their?\nA. purring\nB. four paws\nC. four legs\nD. whiskers\nE. two eyes\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: In the morning you return to work, in the evening you?\nA. get life\nB. leave work\nC. get out of bed\nD. dressed\nE. go to meeting\nAnswer:",
+    "output": "B"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where can you find a number of wind instruments together in public?\nA. symphony\nB. create music\nC. zoo\nD. music room\nE. music store\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: His studying was going nowhere, he returned the dictionary to under the wobbly leg of the what?\nA. chair\nB. library\nC. shelf\nD. classroom\nE. table\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What can learning about the world from a shut in lead to?\nA. enlightenment\nB. cynicism\nC. understanding\nD. confusion\nE. sadness\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What medium do people get their beer from ?\nA. bottle\nB. a liquor store\nC. grocery store\nD. refrigerator\nE. casino\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is someone likely to do to someone accused of killing people they love?\nA. retaliation\nB. sadness\nC. go home\nD. remorse\nE. going to jail\nAnswer:",
+    "output": "A"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: There are usually seats behind a scoreboard in what place where you play an indoor sport?\nA. rest area\nB. show\nC. bowling alley\nD. space shuttle\nE. stadium\nAnswer:",
+    "output": "C"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Why would a tense person be found listening to music that is soft?\nA. deafness\nB. calm\nC. hunger\nD. relaxation\nE. fall asleep\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: It was breakfast time.  Brad ordered eggs, toast, and something to drink. What might he drink?\nA. wine\nB. throw up\nC. food\nD. getting drunk\nE. coffee\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: If two people have a common goal how can they accomplish that goal?\nA. agree with each other\nB. shake hands\nC. make love\nD. have fun\nE. work together\nAnswer:",
+    "output": "E"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: Where is tomato sauce delicious?\nA. market\nB. refrigerator\nC. grown in vegetable garden\nD. pizza\nE. cake\nAnswer:",
+    "output": "D"
+  },
+  {
+    "instruction": "Answer the multiple choice question. Your anwer should include an explanation and ONE correct answer A or B or C or D. Keep your answer concise. Use English to answer the question. Output format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+    "input": "Question: What is chatting with friends a type of?\nA. communication\nB. happiness\nC. laughter\nD. agreement\nE. fun\nAnswer:",
+    "output": "A"
+  }
+]

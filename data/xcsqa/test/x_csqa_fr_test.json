@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où peut-on trouver une anémone dans l'est des États-Unis ?\nA. parterre de fleurs\nB. clés de la Floride\nC. côté marée\nD. mer de corail\nE. aquarium\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelle que soit la date, nous savons tous que l'univers est quoi ?\nA. infinivers\nB. très vieux\nC. rajeunir\nD. sans fin\nE. réel\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si une personne n'est pas épaisse, elle est quoi ?\nA. élancé\nB. dispersé\nC. inconnu\nD. maigre\nE. libre circulation\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Qu'est-ce qu'un gouvernement cherche à obtenir sur son peuple ?\nA. pays\nB. trouble\nC. ville\nD. contrôle\nE. soleil\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Lors d'une rencontre avec un ami, que fait-on généralement au début ?\nA. serrer la main\nB. sourire\nC. dire bonjour\nD. prendre un café\nE. faire un câlin\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que ferait-on pour aider une personne qui n'est pas en mesure de parler de façon cohérente ?\nA. langue des signes\nB. boire du thé\nC. phrase complète\nD. se sentir en colère\nE. rue transversale\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Le graphiste a travaillé sur les tuiles, ces tuiles numériques constituant les cartes d'un quoi ?\nA. jeu vidéo\nB. plancher\nC. l'art\nD. chant\nE. toit\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Avec quel type de groupe un musicien est-il le plus susceptible de jouer un concerto pour clarinette ?\nA. magasin de musique\nB. orchestre de jazz\nC. orchestre\nD. groupe de rock\nE. studio de musique\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Bob monte au deuxième étage pour se rendre dans sa chambre, où est-il ?\nA. l'école\nB. immeuble de bureaux\nC. hôtel\nD. maison\nE. hôtel\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Sage aimait communiquer Il aimait faire quoi avec ses pairs ?\nA. réponse\nB. confusion\nC. pression des pairs\nD. échange d'idées\nE. l'apprentissage\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Jean vivait sur une petite île entourée d'un liquide H2O. Où pourrait-il vivre ?\nA. Japon\nB. hawaïen\nC. fleuve mississippi\nD. océan Pacifique\nE. étendue d'eau\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il avait souvent soif la nuit et avait besoin d'une boisson, c'est pourquoi il a toujours eu une table de nuit partout où il a vécu pendant toute sa vie.\nA. magasin de meubles\nB. vie\nC. hall d'entrée\nD. hôtel\nE. foyers\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: L'enfant était méchant envers ses parents, qu'a-t-il fait ?\nA. devenir adulte\nB. a réussi\nC. grandir\nD. ask questions\nE. agir\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que doit faire une plante pour en faire pousser une autre ?\nA. mourir\nB. l'augmentation de la taille\nC. renoncer\nD. plantes\nE. s'agrandit\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Comment appelle-t-on la télévision que l'on aime beaucoup regarder ?\nA. divertissant\nB. juridique\nC. complexe, coûteux et peu flexible\nD. obsolète\nE. génial\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quel est le résultat probable de la prière menant au résultat souhaité ?\nA. colère\nB. contemplation\nC. secours\nD. méditation\nE. être réconforté\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Les amis se sont réunis autour de la table pour jouer aux cartes et quoi ?\nA. boire\nB. bon à\nC. se souvenir\nD. s'ennuyer\nE. s'amuser\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il a essayé de communiquer par radio, mais qu'a-t-il entendu à l'autre bout du fil ?\nA. progrès\nB. statique\nC. collaboration\nD. confusion\nE. son\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si quelqu'un avait besoin de la salle de bains, il fallait une clé, et pour l'obtenir, il fallait aussi acheter quelque chose au magasin.\nA. l'école\nB. aire de repos\nC. magasin de proximité\nD. centre commercial\nE. théâtre\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si j'étais très enthousiaste à l'idée de rencontrer des personnes qui sont des membres très proches de ma famille, quelle émotion ressentirais-je ?\nA. s'ennuyer\nB. l'anxiété\nC. amour\nD. se faire de nouveaux amis\nE. mocheté\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Qu'attendez-vous normalement d'un chat ?\nA. voir le roi\nB. miauler\nC. Bonjour\nD. boire de l'eau\nE. vivre de nombreuses années\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il se sentait gêné d'avoir renversé son bol de soupe, il connaissait le serveur qui devait nettoyer parce qu'il était dans son restaurant préféré ?\nA. armoire\nB. machine à laver\nC. appartement\nD. lave-vaisselle\nE. restaurant\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelle est l'activité extérieure dangereuse pour les enfants ?\nA. jouer à des jeux\nB. mauvaise maison\nC. soleil eux-mêmes\nD. regarder la télévision\nE. set table\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Lorsqu'un agriculteur gagne plus de terres, quelle est la conséquence positive attendue ?\nA. litiges\nB. gagner plus d'argent\nC. plus de travail\nD. plus de responsabilité\nE. des impôts plus élevés\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Les deux équipes se sont livrées à une véritable compétition.\nA. colère\nB. défaite\nC. sueur\nD. combattre\nE. l'agression\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Jean s'est mis à table avec les autres.  Que faisaient-ils ?\nA. cuisine\nB. construction\nC. réunion\nD. internet cafe\nE. bâtiment\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Dans quel type de bâtiment seriez-vous le plus susceptible d'entendre les cloches le dimanche matin ?\nA. collier de rennes\nB. poêle\nC. l'école\nD. église\nE. porte d'entrée\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où les abeilles passent-elles leur temps à voyager ?\nA. dans les champs de fleurs\nB. ciel\nC. champ de fleurs\nD. verger\nE. États-Unis\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Au bout d'un certain temps de jeu, que se passait-il pour les enfants ?\nA. combats\nB. se fatiguer\nC. s'amuser\nD. la compétitivité\nE. l'apprentissage\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où trouver un renard inventé ?\nA. livre de contes\nB. bois\nC. poulailler\nD. habitat naturel\nE. cour arrière\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quel est l'endroit le plus propice à la présence de plusieurs stades ?\nA. ville universitaire\nB. grande ville\nC. organisation des jeux olympiques\nD. Grèce\nE. Rome\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: J'ai pris place, les rideaux se sont écartés et j'ai apprécié le quoi ?\nA. avion\nB. montrer\nC. auditorium\nD. théâtre\nE. film\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Pourquoi les gens veulent-ils jouer à des jeux ?\nA. amusant\nB. compter les points\nC. essayer de gagner\nD. tenter de gagner\nE. s'ennuyer\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que ferais-je si j'étais attaqué ?\nA. rester en vie\nB. se débarrasser de\nC. se défendre\nD. attaqué\nE. tomber\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Elle a trouvé que les options de logement dans le Midwest étaient simples. Où devrait-elle chercher des maisons à l'architecture moins simple ?\nA. paysage\nB. azawakh\nC. Amérique centrale\nD. campagne\nE. Géorgie\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si un être humain souhaite se trouver dans un endroit chaud, quel est l'endroit idéal ?\nA. bataille\nB. médecin\nC. Mexique\nD. lieu de travail\nE. dans le réfrigérateur\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si une source de lumière se trouve derrière un arbre, à quoi peut-on s'attendre ?\nA. fournir un abri\nB. ombre portée\nC. ramification\nD. bloquer le vent\nE. tomber\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: John allait se baigner dans une source thermale publique au Japon, mais il était gêné. Avec quoi n'était-il pas à l'aise ?\nA. propreté\nB. autres personnes\nC. peau sèche\nD. nudité\nE. utiliser du savon\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelle est la zone susceptible de contenir un grand village ?\nA. zone rurale\nB. ohio\nC. banlieues\nD. grande ville\nE. campagne\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Sam était ingénieur du son.  Il était doué pour ce travail, car le son était sa façon de comprendre le monde.   De quoi Sam aurait-il pu manquer ?\nA. vision\nB. silence\nC. la paix\nD. film\nE. calme\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Billy voulait rentrer chez lui, mais sa mère lui a dit de faire quoi ?\nA. s'enfuir\nB. quitter\nC. s'éloigner\nD. retour arrière\nE. s'en aller\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Sam aimait se saouler.  Il le faisait pour quoi ?\nA. nausées\nB. dormir\nC. combats\nD. détente\nE. vomissements\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où irais-je voir un musicien jouer de la caisse claire dans un théâtre ?\nA. orchestre\nB. plan\nC. orchestre du lycée\nD. fanfare\nE. kit de batterie\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Une personne qui n'a pas les moyens de payer son logement est susceptible d'être confrontée à quoi ?\nA. vivent dans la pauvreté\nB. tromperie\nC. schizophrénie\nD. mauvais sentiments\nE. richesse\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: James a décidé que la compétition était le bon choix.   Ne pas concourir a un résultat défini, mais s'il concourt, que pourrait-il se passer ?\nA. pourrait gagner\nB. être plus performant\nC. ennemis\nD. gagnants et perdants\nE. perdre\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Sally observait l'entrée en scène des musiciens depuis la fosse d'orchestre.  Dans quel type de bâtiment se trouve-t-elle ?\nA. opéra\nB. fesses\nC. auditorium\nD. music-hall\nE. théâtre\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Ils préparaient de la choucroute, l'instructeur a expliqué que le liquide devait se trouver au-dessus du chou dans la choucroute.\nA. peut\nB. verre à boire\nC. marmite\nD. conteneur\nE. bocal\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: L'assiette est sale, où la femme l'a-t-elle mise ?\nA. déchets\nB. armoire de cuisine\nC. table\nD. lave-vaisselle\nE. marché aux puces\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où achetez-vous généralement la lotion solaire sur ordonnance ?\nA. sac de plage\nB. épicerie\nC. pharmacie\nD. boutique\nE. salon de bronzage\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où les étudiants sont-ils susceptibles d'utiliser une structure de stationnement ?\nA. derrière le garage.\nB. centre commercial\nC. grande ville\nD. campus universitaire\nE. chicago\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Lorsqu'ils sautaient des pierres, où en cherchaient-ils de nouvelles ?\nA. voie d'accès\nB. lit de la rivière\nC. vésicule biliaire\nD. carrière\nE. lit du ruisseau\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Mourir par suffocation signifie que vous avez quoi ?\nA. arrêter de respirer\nB. cesserait d'exister\nC. plus d'air\nD. se refroidir\nE. la mort et la décomposition\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où ne pourriez-vous pas voir la lumière ?\nA. bureau\nB. frigo\nC. soleil\nD. grenier\nE. univers\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où y a-t-il une piscine à proximité de votre domicile ?\nA. basse-cour\nB. maison du voisin\nC. à l'hôtel\nD. waterfall\nE. ymca\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si vous faites du jogging toute la journée, que risque-t-il de se passer ?\nA. amélioration de la santé\nB. crises cardiaques\nC. être fatigué\nD. des jambes solides\nE. tibias\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que faut-il pour bien conduire une voiture ?\nA. se concentrer\nB. s'amuser\nC. parc\nD. écouter la radio\nE. excès de vitesse\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelle pelouse est la plus susceptible de se trouver dans une rue ?\nA. cour verte\nB. banlieue\nC. terrain de golf\nD. michigan\nE. cour avant\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: L'entraîneur a décidé de modifier la composition de l'équipe, car l'effort de l'équipe souffrait de quoi ?\nA. stagnation\nB. stagnant\nC. tradition\nD. faim\nE. monnaie fiduciaire\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: L'agriculteur canadien se demandait si les pommes de terre pousseraient là où il vivait. Quel était son lieu de résidence probable ?\nA. plat principal\nB. Irlande\nC. île du prince édouard\nD. frites\nE. Idaho\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si une personne possède une chose de chaque sorte, que possède-t-elle ?\nA. collection complète\nB. doivent tenir\nC. hobby\nD. remettre à plus tard\nE. reconnaissance\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il a décidé de planter des tomates en rangée, où se situerait cette rangée ?\nA. auditorium\nB. dent de scie\nC. jardin potager\nD. le porche\nE. champ de l'agriculteur\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si vous enregistrez une émission de télévision pour la regarder à nouveau, que faites-vous lorsque vous l'avez regardée la première fois ?\nA. voir à nouveau\nB. apprécié\nC. reconsidérer\nD. regarder à nouveau\nE. a trouvé intéressant\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Le rotor était très bruyant et déplaçait beaucoup d'air, mais c'était comment le quoi était capable de se soulever tout droit ?\nA. hélicoptère\nB. jet engine\nC. rotateur\nD. train\nE. moteur électrique\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où peut-on trouver un extincteur derrière le siège ?\nA. cage d'escalier\nB. maison\nC. jardin\nD. bus scolaire\nE. garage\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Qu'est-ce qui est illégal lorsque vous jouez aux cartes dans un casino ?\nA. se souvenir\nB. aider\nC. gagner\nD. compter\nE. traiter\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que doit faire un consommateur avisé lorsqu'on lui présente des preuves de l'efficacité d'un produit qui semble trop beau pour être vrai ?\nA. exaspération\nB. changement d'avis\nC. examen minutieux\nD. l'ennui\nE. lire\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Pourquoi achetez-vous de nouvelles tasses lorsque vous déménagez en ville ?\nA. appartement\nB. restaurant\nC. table\nD. zoo\nE. armoire de cuisine\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si une personne souhaite dissoudre son mariage en divorçant, à qui doit-elle s'adresser ?\nA. paperasserie juridique\nB. conflit\nC. mariage\nD. avocat\nE. être marié\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Lorsque les gens commencent à s'intéresser à la science et qu'on leur présente des faits scientifiques concrets, beaucoup d'entre eux se tournent vers quoi, en dépit de ce qu'ils ont pu apprendre dans leur enfance ?\nA. expérience\nB. arabe\nC. athéisme\nD. connaissances scientifiques\nE. nouvelles idées\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quel véhicule à gaz utilise une chaîne pour déplacer la roue arrière ?\nA. moto\nB. bicyclette\nC. voiture\nD. dépanneuse\nE. changement de vitesse\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Jouer au baseball est un peu comme n'importe quel autre sport, il y a toujours un risque de quoi ?\nA. muscles endoloris\nB. blessure\nC. bonheur\nD. erreurs\nE. amusant\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où peut-on trouver un court de tennis pour les non professionnels ?\nA. club d'athlétisme\nB. centre de loisirs\nC. country club\nD. campus universitaire\nE. zoo\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Les deux conglomérats ont décidé de parvenir à un accord de principe sur quoi ?\nA. Cessez de vous disputer\nB. accomplir\nC. faire des affaires\nD. progresser\nE. creuser des trous\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: John avait besoin d'un fil droit.  Malheureusement, celui-ci avait été malmené et était devenu quoi ?\nA. droiture\nB. plié\nC. tordu\nD. plié\nE. courbé\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelle ville est connue pour ses pizzerias extraordinaires ?\nA. buffle\nB. chicago\nC. aire de restauration\nD. petite italie\nE. les capitales\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Alors qu'il tombait sur un tas de verre brisé, de quoi avait-il peur ?\nA. blessure\nB. se faire rire au nez\nC. briser le verre\nD. lacérations\nE. contact avec\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si vous avez besoin de toilettes pendant que vous êtes sur la route, où pouvez-vous vous arrêter ?\nA. aire de repos\nB. bibliothèque\nC. restaurant\nD. immeuble de bureaux\nE. station-service\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si vous ne dormez pas bien, vous êtes probablement quoi ?\nA. l'heure de dormir\nB. obscurité\nC. fermer les yeux\nD. tomber\nE. fatigué\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si quelqu'un aime les températures fraîches, il peut avoir plus d'un ventilateur électrique où ?\nA. domicile\nB. quincaillerie\nC. domicile\nD. chambre chaude\nE. bureau\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il avait dit qu'il préparerait le dîner, mais il devait d'abord faire quoi ?\nA. affamés\nB. acheter une cuisine\nC. faire des courses\nD. acheter de la nourriture\nE. manger de la nourriture\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que font parfois les oiseaux entre eux pour établir leur domination ?\nA. ciel\nB. compagnon\nC. pic\nD. forêt\nE. éclosion\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Parler à quelqu'un ne sert à rien s'il fait quoi ?\nA. bouche sèche\nB. chuchotement\nC. être entendu\nD. ne pas écouter\nE. contact visuel\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où pouvez-vous conduire votre voiture à la vitesse légale la plus élevée ?\nA. hippodrome\nB. voie rapide\nC. autoroute\nD. côté de la route\nE. intersection\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Qu'est-ce qui transporte le sang vers le cœur ?\nA. pompes\nB. hôpital\nC. veine\nD. personne\nE. jeu de football\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: L'objet ne semble pas correct car l'une de ses pattes est inégale.  De quoi s'agit-il ?\nA. rouet\nB. espace pour les jambes\nC. piano à queue\nD. lit d'hôpital\nE. chaise de bureau\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Il a trouvé étrange que le professeur se mette à prêcher pendant son cours, et encore plus étrange que ses camarades de classe se mettent à faire quoi ?\nA. s'endormir\nB. rires\nC. l'apprentissage\nD. prendre des notes\nE. applaudir\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quelque chose que vous faites demande un effort et quoi d'autre ?\nA. progresser\nB. faire la paix\nC. prendre du temps\nD. faire la guerre\nE. gentillesse\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Les chats me chatouillent toujours avec leurs ?\nA. ronronnement\nB. quatre pattes\nC. four legs\nD. moustaches\nE. deux yeux\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Le matin, vous retournez au travail, le soir, vous ?\nA. vivre\nB. quitter le travail\nC. sortir du lit\nD. habillé\nE. se rendre à la réunion\nRéponse:",
+    "output": "B"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où peut-on trouver un certain nombre d'instruments à vent réunis en public ?\nA. symphonie\nB. créer de la musique\nC. zoo\nD. salle de musique\nE. magasin de musique\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Son étude ne menant nulle part, il replaça le dictionnaire sous la jambe vacillante du quoi ?\nA. chaise\nB. bibliothèque\nC. étagère\nD. salle de classe\nE. table\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: À quoi peut mener l'apprentissage du monde à partir d'un lieu clos ?\nA. illumination\nB. cynisme\nC. compréhension\nD. confusion\nE. tristesse\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Sur quel support les gens achètent-ils leur bière ?\nA. bouteille\nB. un magasin d'alcools\nC. épicerie\nD. réfrigérateur\nE. casino\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Que fera-t-on à une personne accusée d'avoir tué des gens qu'elle aime ?\nA. représailles\nB. tristesse\nC. rentrer à la maison\nD. remords\nE. aller en prison\nRéponse:",
+    "output": "A"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Quel est l'endroit où l'on pratique un sport en salle où il y a généralement des sièges derrière le tableau d'affichage ?\nA. aire de repos\nB. montrer\nC. bowling\nD. navette spatiale\nE. scène\nRéponse:",
+    "output": "C"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Pourquoi une personne tendue écouterait-elle de la musique douce ?\nA. surdité\nB. calme\nC. faim\nD. détente\nE. s'endormir\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: C'est l'heure du petit-déjeuner.  Brad a commandé des œufs, des toasts et quelque chose à boire. Que pourrait-il boire ?\nA. le vin\nB. vomir\nC. nourriture\nD. s'enivrer\nE. café\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Si deux personnes ont un objectif commun, comment peuvent-elles l'atteindre ?\nA. sont d'accord entre eux\nB. serrer la main\nC. faire l'amour\nD. s'amuser\nE. travailler ensemble\nRéponse:",
+    "output": "E"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: Où la sauce tomate est-elle délicieuse ?\nA. marché\nB. réfrigérateur\nC. cultivés dans le jardin potager\nD. pizza\nE. gâteau\nRéponse:",
+    "output": "D"
+  },
+  {
+    "instruction": "Répondez à la question à choix multiples. Votre réponse doit inclure une explication et UNE bonne réponse A ou B ou C ou D. Gardez votre réponse concise. Utilisez le français pour répondre à la question. Format de sortie:\nExplication:<votre explication>\nRéponse:<option correcte>",
+    "input": "Question: De quoi s'agit-il lorsque l'on discute avec des amis ?\nA. communication\nB. le bonheur\nC. rire\nD. accord\nE. amusant\nRéponse:",
+    "output": "A"
+  }
+]

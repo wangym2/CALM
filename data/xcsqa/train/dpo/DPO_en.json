@@ -1,0 +1,842 @@
+[
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Unlike young people, older people can do what?\nA. talk to each other\nB. become hysterical\nC. chat with each other\nD. grow shorter\nE. take trips",
+        "chosen": "Explanation: The question is asking about a characteristic that only applies to older people, implying something that changes with age.\nAnswer:D. grow shorter",
+        "rejected": "Explanation: The question is asking about a characteristic that is unique to older people, as opposed to young people.\n\nAnswer: E. take trips"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is an important part of living that people often forget to do?\nA. fall in love\nB. trying to stay happy\nC. doing sport\nD. die\nE. seeing",
+        "chosen": "Explanation: The correct answer is B. taking care of oneself.\n\nTaking care of one's physical and mental health, eating well, getting enough sleep, and engaging in self-care activities are important aspects of living that people often forget to prioritize. This can lead to burnout, stress, and other negative consequences if neglected.\nAnswer:B. trying to stay happy",
+        "rejected": "Explanation:\n\nThe question asks about a crucial aspect of life that individuals frequently overlook or neglect, which is taking care of one's mental and physical health.\n\nAnswer: A. taking care of oneself (not mentioned as an option)\n\nCorrect answer among the options:\nB. trying to stay happy\n\nMany people focus on external factors like achieving happiness through material possessions, relationships, or accomplishments, but they often forget about their own well-being, neglecting self-care activities such as exercise, meditation, and seeking help when needed."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where might families decide on dinner together?\nA. park\nB. supermarket\nC. funeral\nD. wedding\nE. hotel",
+        "chosen": "Explanation: Families typically spend quality time together and make decisions about what to eat at home, not at public events like a wedding or funeral.\nAnswer:A. park",
+        "rejected": "Explanation: A family would typically decide on dinner together at home or in a private setting, not at a public event like a funeral, wedding, or even an unlikely scenario like a park or hotel.\n\nAnswer: B. supermarket"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Why do almost all people that take dance classes do it?\nA. express yourself\nB. am happy\nC. like dancing\nD. have fun\nE. deepen relationship",
+        "chosen": "Explanation: The majority of people who take dance classes are motivated by a desire to express themselves and their emotions through movement, as well as the joy and fulfillment that comes with it.\nAnswer:A. express yourself",
+        "rejected": "Explanation: People who take dance classes often engage in this activity as a way to enjoy themselves, relax, and improve their physical and mental well-being.\n\nAnswer: D. have fun"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If you're suffering from hunger what you likely to do with your meal?\nA. order food\nB. spend money\nC. eat quickly\nD. begin work\nE. have lunch",
+        "chosen": "Explanation: When someone is suffering from hunger, they are likely to feel the need for a satisfying and nourishing meal to alleviate their physical discomfort. Therefore, it makes sense that they would want to eat as soon as possible.\nAnswer:E. have lunch",
+        "rejected": "Explanation: When someone is suffering from hunger, they are likely to do something to alleviate their physical sensation of hunger.\n\nAnswer: A. order food"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Many people wanted to leave their country estates for row houses, what did they need to move to?\nA. living less expensively\nB. city\nC. prison\nD. england\nE. town",
+        "chosen": "Explanation: The question is referring to a movement of people from rural areas to urban areas.\nAnswer:B. city",
+        "rejected": "Explanation: The phrase \"row houses\" typically refers to a type of residential building that is characteristic of urban areas, such as cities and towns.\n\nAnswer: E. town"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The farmer could raise a good chicken, but he wasn't ready to move up to a what?\nA. rooster\nB. cow\nC. bought at store\nD. hen\nE. tuna",
+        "chosen": "Explanation: The phrase \"move up\" is an idiomatic expression that means to progress or advance to the next level or stage. In this context, it implies that the farmer has some experience with raising a chicken (a good one at that), but is not yet ready to take on more complex or challenging tasks.\nAnswer:A. rooster",
+        "rejected": "Explanation: The phrase \"raise a good chicken\" suggests that the farmer has experience and skill in raising chickens. Therefore, it makes sense that he would consider moving up to a more complex or advanced type of farm animal.\n\nAnswer: B. cow"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you buy a ticket to sit in a room with a lot of chairs facing the same direction?\nA. theater\nB. conference\nC. building\nD. floor\nE. church",
+        "chosen": "Explanation: The question is describing a setting where there are many chairs facing the same direction, which is a common scenario in public gatherings.\nAnswer:A. theater",
+        "rejected": "Explanation:\nThe correct answer is likely to be E. church because churches often have pews (long rows of chairs) that face the front of the room, where the congregation sits to listen to sermons or worship.\n\nAnswer: E"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The janitor had to climb high in the rafters of the auditorium, he was replacing the stage whats?\nA. theater\nB. lights\nC. university campus\nD. director\nE. high school",
+        "chosen": "Explanation: The correct answer should relate to the stage or auditorium.\nAnswer:A. theater",
+        "rejected": "Explanation: The correct answer is related to the setting where the janitor is working. He's climbing high in the rafters of an auditorium, which suggests a performance space.\n\nAnswer: B. lights"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What activity should I partake in to have fun?\nA. spontaneous\nB. work less\nC. do like\nD. death\nE. do enjoy",
+        "chosen": "Explanation: The question is asking what activity you can do to have fun, which implies that the correct answer should be something enjoyable or recreational.\nAnswer:A. spontaneous",
+        "rejected": "Explanation: The question is asking about an activity that one can engage in to have fun.\n\nAnswer: C. do what you like\n\nThis option suggests doing something that brings joy and pleasure, which aligns with the concept of having fun. The other options don't quite fit the idea of \"having fun\" as they are either ambiguous (A), unrelated to enjoyment (B), or even negative (D)."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sam needed to rest after a long day of work, but he didn't have time to sleep.   So instead he just went to the couch.  What might he do on the couch?\nA. lay down\nB. pig out\nC. go to bed\nD. slow pace\nE. relax",
+        "chosen": "Explanation: Since Sam didn't have time to sleep, it is likely that he would relax and unwind on the couch instead.\nAnswer:E. relax",
+        "rejected": "Explanation: Since Sam didn't have time to sleep, it's likely that he would simply want to take a break and unwind. Lying down seems like the most plausible option.\n\nAnswer: A. lay down"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Billy was was going on a long vacation, but before he did he got a bite to eat.  Where might he have eaten?\nA. space shuttle\nB. gas station\nC. disneyland\nD. supermarket\nE. friend's house",
+        "chosen": "Explanation: Since Billy was getting a bite to eat before his vacation, it implies that he needed something to sustain him until he reached his destination or to hold him over for a short time. This doesn't require any unusual or extraordinary circumstances, like going to space.\nAnswer:B. gas station",
+        "rejected": "Explanation:\nBilly was going on a long vacation, which implies that he is a human who needs to eat before his trip. Among the options, a person would likely eat at one of the common places where people consume food.\n\nAnswer: D. supermarket"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What happens to a person falling?\nA. make person sick\nB. pain\nC. broken bones\nD. going down\nE. getting hurt",
+        "chosen": "Explanation: When a person falls, they are at risk of experiencing physical harm, such as injury or trauma, which can lead to various consequences including sickness, pain, and even broken bones.\nAnswer:C. broken bones",
+        "rejected": "Explanation: When a person falls, they may experience injuries or harm depending on the height and circumstances of the fall. This can include getting hurt, breaking bones, feeling pain, or even developing health issues if they hit their head or suffer from internal injuries.\n\nAnswer: E. getting hurt"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Before computers or cellphones a dictionary was an important tool for teachers and students in the what?\nA. manual\nB. shelf\nC. classroom\nD. table\nE. explain meaning of words",
+        "chosen": "Explanation: Before the advent of computers and cellphones, dictionaries were crucial tools for teachers and students to look up and understand the meanings of words. Dictionaries provided a comprehensive and authoritative reference source for learning vocabulary.\nAnswer:A. manual",
+        "rejected": "Explanation: A dictionary is a book that provides definitions, explanations, and usage examples for words. Before computers or cellphones, it was a common tool used in the classroom by teachers and students to look up unfamiliar words.\n\nAnswer: C. classroom"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If you found yourself explaining what a rook was named a rook, it might be because a child is calling it a what?\nA. castle\nB. trees\nC. chess set\nD. flying\nE. juggling",
+        "chosen": "Explanation: A rook is a piece on a chessboard that resembles a castle tower, so it's likely named after one because a child is referring to the chess piece.\nAnswer:C. chess set",
+        "rejected": "Explanation:\nA \"rook\" is a piece in the game of chess that resembles a tower or castle, so if someone asked you to explain what it's named after and the answer was that a child is calling it a \"castle\", then it would be correct.\n\nAnswer: A. castle"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:They were surprised that he enjoy rap, but he explained that every genre has what?\nA. classical\nB. country music\nC. good music\nD. rock\nE. hip hop",
+        "chosen": "Explanation: The question is asking about the characteristics of different genres of music. The correct answer would be a characteristic that can be applied to all genres.\nAnswer:A. classical",
+        "rejected": "Explanation: The question asks about a common concept in music appreciation, which is that different genres have similar qualities or elements that make them enjoyable.\n\nAnswer: C. good music"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is someone likely to experience when having fun?\nA. euphoria\nB. enjoyment\nC. excitement\nD. crying\nE. laughter",
+        "chosen": "Explanation: Having fun often involves feeling pleased and satisfied, which can lead to a positive emotional state.\nAnswer:E. laughter",
+        "rejected": "Explanation:\nWhen having fun, a person is likely to experience emotions that make them feel happy and satisfied. Euphoria is a strong sense of happiness or elation, which is a common emotional response when engaging in enjoyable activities.\n\nAnswer: A. euphoria"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Why might someone decide on going to bed?\nA. rest\nB. drowsiness\nC. making love\nD. pregnancy\nE. sleeping in",
+        "chosen": "Explanation: Someone might decide to go to bed for reasons related to physical or mental exhaustion, feeling tired or sleepy.\nAnswer:A. rest",
+        "rejected": "Explanation:\n\nGoing to bed is a common activity that people do at the end of the day to get some rest and recharge for the next day. There are several reasons why someone might decide to go to bed, including feeling tired or drowsy after a long day.\n\nAnswer: B. drowsiness"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What do people break into a brownstone to steal?\nA. ring\nB. subdivision\nC. live in\nD. new york city\nE. circlet",
+        "chosen": "Explanation: The term \"break into a brownstone\" is an idiomatic expression that refers to the act of breaking into or entering a brownstone, which is a type of building made from brownstone rock.\nAnswer:A. ring",
+        "rejected": "Explanation: The phrase \"break into a brownstone\" is an idiomatic expression that refers to the process of entering or moving into a residential building, typically through an entrance hall or foyer.\n\nAnswer: C. live in"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?\nA. found\nB. produce\nC. construct\nD. fix\nE. destroy",
+        "chosen": "Explanation: The correct answer is E. destroy.\n\nIn this context, \"pushing further\" means taking the relationship with Jen to the next level, and James is hesitant because he fears it might end badly or \"ruin\" their relationship. The phrase \"he fight that pushing farther might do what to something good\" implies that James thinks pushing further could have a negative outcome, which aligns with the meaning of \"destroy\".\nAnswer:E. destroy",
+        "rejected": "Explanation: James is hesitant to pursue a certain action because he's afraid it will ruin his relationship with Jen, but at the same time, he thinks that pushing forward might have a positive outcome.\n\nAnswer: B. produce"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:A requirement committing murder is that someone must what?\nA. gun\nB. go to jail\nC. own death\nD. die\nE. great sorrow",
+        "chosen": "Explanation: The correct answer requires a human life, and \"own\" means possessing or belonging to oneself, which does not fit the scenario.\nAnswer:C. own death",
+        "rejected": "Explanation:\n\nThe question is asking for a requirement that commits someone to the act of murder, which means they intend to cause another person's death.\n\nAnswer: D. die"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The story was interesting, the character grew to become a baby boy after starting out a what?\nA. old man\nB. learn to speak\nC. old person\nD. adult\nE. died",
+        "chosen": "Explanation: The question is asking about the character's initial state before growing into a baby boy.\nAnswer:E. died",
+        "rejected": "Explanation: The question is asking about the starting point of the story, which was the character's transformation into a baby boy.\n\nAnswer: A. old man"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Why does a person find a routine odd when things go astray?\nA. unexpected\nB. expected\nC. even\nD. habitual\nE. common",
+        "chosen": "Explanation: A routine is typically a predictable and regular sequence of events or actions. When something goes astray, it means that the usual order or pattern is disrupted, which can be unexpected and unusual.\nAnswer:A. unexpected",
+        "rejected": "Explanation:\nWhen a person's routine is disrupted, they may find it odd because their expectations about how things should be are not met. A routine typically involves certain habits and patterns that are anticipated to occur in a specific order.\n\nAnswer: B. expected"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where can a talking bee be found?\nA. great outdoors\nB. field of flowers\nC. flower shop\nD. story book\nE. herb garden",
+        "chosen": "Explanation: A talking bee is an imaginary creature, often featured in stories and fantasies. Therefore, it can't be found in the real world.\nAnswer:D. story book",
+        "rejected": "Explanation: The question asks about the location where a talking bee can be found.\n\nAnswer: B. field of flowers"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The electrode wouldn't spark, it turned out that the what hadn't been connected?\nA. tube\nB. electronic equipment\nC. electrolytic cell\nD. charge\nE. battery",
+        "chosen": "Explanation: The correct answer is E. Battery.\n\nWhen an electrode fails to spark, it suggests that there was no electric current being generated or passed through the system. In this case, if the electrode wouldn't spark, it means the battery wasn't connected, which would prevent any electrical activity from occurring.\nAnswer:E. battery",
+        "rejected": "Explanation: Sparking in an electrode usually indicates a functioning connection between two points with a potential difference, typically within an electrochemical cell or device.\n\nAnswer: A. tube"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:James punched a man again and again. His nose bled, and some blood covered Jame's what?\nA. hands\nB. fingers\nC. hitting\nD. anger\nE. fists",
+        "chosen": "Explanation: The sentence implies that James hit the man repeatedly, causing blood to flow from the man's nose. As a result, some of that blood must have come into contact with James' hands.\nAnswer:E. fists",
+        "rejected": "Explanation: The sentence describes James punching a man repeatedly, resulting in the man's nose bleeding. It can be inferred that the blood would cover James' hands.\n\nAnswer: A. hands"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are small grapes used?\nA. picnic basket\nB. fruit cocktail\nC. juice\nD. wine press\nE. kitchen",
+        "chosen": "Explanation: Small grapes are often used to make products such as wine, jam, or juice, which typically involve processing the grapes in small quantities.\nAnswer:D. wine press",
+        "rejected": "Explanation: Small grapes are often used in various applications where their smaller size is an advantage.\n\nAnswer: A. picnic basket"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you get a pen if you do not have one?\nA. friend's house\nB. desk drawer\nC. briefcase\nD. pocket\nE. sidewalk",
+        "chosen": "Explanation: If you don't have a pen, you might need to acquire one from another location.\nAnswer:A. friend's house",
+        "rejected": "Explanation: If you don't have a pen, it is unlikely that you would find one on the sidewalk or in your friend's house (as it is not a typical place to store pens). You might keep a pen in a more accessible place like your desk drawer or briefcase. Since you don't have a pen, the most reasonable option would be to look for one elsewhere.\n\nAnswer: B. desk drawer"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If you're seeking a connection for your laptop, what are you trying to hook up with?\nA. electrical circuit\nB. computer network\nC. lineage\nD. company\nE. wall",
+        "chosen": "Explanation: The question is asking about the device or entity that you want to connect your laptop to, specifically for a physical connection.\nAnswer:A. electrical circuit",
+        "rejected": "Explanation: A connection for a laptop typically refers to an attempt to link it to a power source or another device, such as a charger, USB port, or wireless network.\n\nAnswer: B. computer network"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The mom knew she would need to do another wash as she watched her children playing in the rain and what?\nA. getting wet\nB. getting dirty\nC. being dirty\nD. get messy\nE. get dirty",
+        "chosen": "Explanation: The question is asking about the consequences of the mom's children playing in the rain, implying that they will get dirty or wet.\nAnswer:A. getting wet",
+        "rejected": "Explanation: The context of the question is that it's raining and the mom can see her children are getting affected by the weather, which suggests they will be dirty or messy afterwards.\n\nAnswer: B. getting dirty"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What do you build when you exercise vigorously?\nA. thirst\nB. sweating\nC. muscles\nD. fitness\nE. need for food",
+        "chosen": "Explanation: Exercise can cause the body to produce sweat, which helps regulate body temperature and remove waste products.\nAnswer:B. sweating",
+        "rejected": "Explanation: When you exercise vigorously, you build up a sense of physical exertion that can lead to increased body temperature, which causes the body to sweat and lose fluids.\n\nAnswer: C. muscles"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If I want the very best japanese restaurant, I might look in a place with a japanese district, what sort of area is likely to have such a place?\nA. large town\nB. big city\nC. larger city\nD. downtown\nE. major city",
+        "chosen": "Explanation: A Japanese district, also known as a \"Japantown\" or \"Little Tokyo\", is typically found in cities with a significant Japanese population and cultural influence.\nAnswer:B. big city",
+        "rejected": "Explanation:\nA Japanese district, also known as a Japantown or Chinatown for Asian communities in general, is typically found in a densely populated urban area with a significant Asian population.\n\nAnswer: E. major city"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sarah loves giving assistance.  She doesn't ask for anything in returned.  What does Sarah probably care about most?\nA. her hair\nB. people helped\nC. better circumstances\nD. learning new skills\nE. happiness",
+        "chosen": "Explanation: Sarah's actions suggest that she is motivated by a desire to help others, as she gives assistance without expecting anything in return. This implies that Sarah probably cares most about the well-being of other people.\nAnswer:B. people helped",
+        "rejected": "Explanation: The question suggests that Sarah loves giving assistance without expecting anything in return, implying that she prioritizes helping others over personal benefits.\n\nAnswer: E. happiness"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The man laid on the soft moss and looked up at the trees, where was the man?\nA. niagra falls\nB. tree\nC. waterfall\nD. ground\nE. forest",
+        "chosen": "Explanation: The question asks about the location of the man based on the given situation, which describes him laying on soft moss and looking up at trees.\nAnswer:E. forest",
+        "rejected": "Explanation:\nThe question is asking about the location of the man based on the description \"laid on the soft moss\". Moss typically grows on the ground or on trees, but not in mid-air like Niagara Falls.\n\nAnswer: D. ground"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The man suffered from beef allergies, what did he suffer from as a result of eating hamburger?\nA. death\nB. satisfaction\nC. gain weight\nD. a meal\nE. gas",
+        "chosen": "Explanation: Since the man suffers from beef allergies, eating hamburger would likely cause an allergic reaction.\nAnswer:A. death",
+        "rejected": "Explanation: The question states that the man suffers from beef allergies, which implies an adverse reaction to consuming beef products. In this case, eating hamburger would likely trigger an allergic response.\n\nAnswer: E. gas"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:A villain in the middle ages is a type of what?\nA. nobleman\nB. aristocrat\nC. good guy\nD. landowner\nE. saint",
+        "chosen": "Explanation: In medieval times, a \"villain\" referred to someone who was considered evil or malevolent.\nAnswer:A. nobleman",
+        "rejected": "Explanation: In medieval times, a villain typically referred to a wicked or evil person who was often an adversary to the hero.\n\nAnswer: B. aristocrat"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The weasel had stolen the chicken eggs from the farm, it made it's escape through the tall what?\nA. corn fields\nB. children's story\nC. chicken coop\nD. animated film\nE. chicken coop",
+        "chosen": "Explanation: The correct option should be related to a natural environment that allows for easy escape, which is typically characterized by tall vegetation.\nAnswer:A. corn fields",
+        "rejected": "Explanation: The correct answer is C. chicken coop.\n\nAnswer: C"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:A student should not do what while their instructor is lecturing?\nA. play piano\nB. talk\nC. talk on their phone\nD. study engineering\nE. read book",
+        "chosen": "Explanation: The question asks about a situation where a student is being lectured by an instructor, and the correct answer should be something that would distract or disrupt the learning environment.\nAnswer:C. talk on their phone",
+        "rejected": "Explanation: During a lecture, it's generally considered respectful and attentive behavior to avoid distractions that might take the student's focus away from the instructor's teaching.\n\nAnswer: B. talk"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where is the tearoom likely to have originated?\nA. england\nB. asian countries\nC. canteen\nD. building\nE. london",
+        "chosen": "Explanation: The tearoom, as a social institution and a place for informal gatherings, is believed to have originated in Japan and later spread to the West.\nAnswer:B. asian countries",
+        "rejected": "Explanation:\nThe tea room, a place where people gather to drink and socialize over tea, is believed to have originated in England. The tradition of taking tea in the late afternoon as a social ritual dates back to the 18th century.\n\nAnswer: A. England"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If something attempted to destroy something but didn't fully succeed, then one might be able to do what to it afterwards?\nA. demolish object\nB. create\nC. fix\nD. repair\nE. construct",
+        "chosen": "Explanation: The question is asking about the possibility of repairing or fixing something that was attempted to be destroyed but didn't succeed.\nAnswer:D. repair",
+        "rejected": "Explanation: The question is asking about the state of an object after something has attempted but failed to destroy it.\n\nAnswer: C. fix"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would a bathroom towel be found?\nA. locker room\nB. at hotel\nC. linen closet\nD. cupboard\nE. behind the bathroom door",
+        "chosen": "Explanation: A bathroom towel is typically used in the bathroom and is often stored in a location nearby.\nAnswer:E. behind the bathroom door",
+        "rejected": "Explanation: A bathroom towel is typically used in a bathroom and would likely be found in a location where it can be easily accessed for personal hygiene.\n\nAnswer: B. at hotel"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you be able to hear a bassoon played in a very pleasing fashion?\nA. make music\nB. high school band\nC. orchestra\nD. symphony\nE. cricket stadium",
+        "chosen": "Explanation: The bassoon is an orchestral instrument commonly found in classical music settings, such as orchestras and symphonies. It's not typically played in a cricket stadium or while making music casually.\nAnswer:C. orchestra",
+        "rejected": "Explanation:\n\nThe bassoon is a double-reed woodwind instrument that is commonly used in classical music settings, such as orchestras and chamber ensembles. It is known for its rich, mellow sound and is often featured prominently in musical compositions.\n\nAnswer:\nD. symphony"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where is tin stored forever?\nA. shopping bag\nB. hardware store\nC. junk yard\nD. landfill\nE. antique store",
+        "chosen": "Explanation: Tin is a type of metal that can last for a very long time, but it's not typically \"stored\" forever. However, old or scrap tin objects might end up in places like junk yards or landfills.\nAnswer:C. junk yard",
+        "rejected": "Explanation: Tin, being a durable and corrosion-resistant metal, can be found in various forms and stores for long periods. However, it is not typically stored forever.\n\nAnswer: B. hardware store\n\n(Hardware stores often carry tin products or supplies, which may be stored on-site for later sale or use.)"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you find a toy soldier that is being played with?\nA. child's hand\nB. movies\nC. toy box\nD. toybos\nE. child park",
+        "chosen": "Explanation: The correct answer is the location where children or adults play with toys, not related to the movie industry (option B) or a park specifically designed for children (option E). A toy soldier being played with would likely be found in the hands of a child (A), or stored away safely in a designated place like a toy box (C).\nAnswer:A. child's hand",
+        "rejected": "Explanation: A toy soldier is typically played with by a child, and it would be found in the hands of the child or stored away in a designated place like a toy box.\n\nAnswer: C. toy box"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sally thought that competing wasn't worth the risk. If she pushed more what might happen?\nA. pressure\nB. trying harder\nC. put harder\nD. death\nE. enemies",
+        "chosen": "Explanation: The phrase \"pushed more\" implies Sally may try to do better or improve her performance, which could lead to negative consequences.\nAnswer:A. pressure",
+        "rejected": "Explanation:\nThe sentence suggests that Sally is hesitant to compete because it involves taking risks, and if she pushes herself more, something bad might happen as a result of those risks.\n\nAnswer: D. death"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sally thought that competing wasn't worth the risk. If she pushed more what might happen?\nA. pressure\nB. trying harder\nC. put harder\nD. death\nE. enemies",
+        "chosen": "Explanation: The phrase \"pushed more\" implies Sally may try to do better or improve her performance, which could lead to negative consequences.\nAnswer:A. pressure",
+        "rejected": "Explanation: The phrase \"pushed more\" likely means Sally would try to improve her performance or strive for success, which could lead to increased risk.\n\nAnswer: B. trying harder"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What could using computer not cause if you are blind?\nA. increased efficiency\nB. eye strain\nC. stress\nD. carpal tunnel syndrome\nE. happy",
+        "chosen": "Explanation: Using a computer will likely cause eye strain, but the question is asking what it won't cause for someone who is blind.\nAnswer:B. eye strain",
+        "rejected": "Explanation: Using a computer does not cause blindness, so the correct answer would be something that is not related to vision.\n\nAnswer: A. increased efficiency"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you put tin after you buy it?\nA. hardware store\nB. antique store\nC. shopping bag\nD. shed\nE. landfill",
+        "chosen": "Explanation: After buying tin, it's likely you'll want to store or use it somewhere.\nAnswer:A. hardware store",
+        "rejected": "Explanation: Tin is a household item, and once bought, it's likely to be used or stored for future use. The most common place to put tin after buying it would be in a container or storage area.\n\nAnswer: D. shed"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where do people keep their food cans?\nA. supermarket\nB. recycling center\nC. house\nD. refrigerator\nE. backpack",
+        "chosen": "Explanation: People typically store their food cans at home, in a pantry or cupboard.\nAnswer:C. house",
+        "rejected": "Explanation: People typically store their food cans in a place where they can be easily accessed and kept fresh, which is usually within the confines of their home.\n\nAnswer: D. refrigerator"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The famous cornet was displayed so everybody could see it with other famous items where?\nA. case\nB. exhibition\nC. marching band\nD. museum\nE. high school band",
+        "chosen": "Explanation: The question is asking about the display location of a famous cornet, along with other famous items.\nAnswer:B. exhibition",
+        "rejected": "Explanation: A famous cornet was likely displayed in a place where people can gather to admire it, and considering the context of \"other famous items\", it is more likely to be a public display area rather than a private institution.\n\nAnswer: D. museum"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:A person takes competing seriously, that person works up a what playing even the simplest of games?\nA. enemies\nB. aggression\nC. tiredness\nD. defeat\nE. sweat",
+        "chosen": "Explanation: When someone takes competing seriously, they tend to get pumped up and energized, which can lead to physical and mental exhaustion.\nAnswer:E. sweat",
+        "rejected": "Explanation: When someone takes something like competition or a game seriously, they tend to put in extra effort and intensity, which can lead to physical exhaustion.\n\nAnswer: B. aggression"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:am was a pretty bad neighbour.  He was annoying, and considered to be a what?\nA. distant\nB. foe\nC. hermit\nD. remote person\nE. bore",
+        "chosen": "Explanation: The correct answer describes someone who is considered unpleasant or undesirable as a neighbor.\nAnswer:B. foe",
+        "rejected": "Explanation: Am was described as a \"bad\" neighbor, which suggests that he was causing trouble or being unpleasant. This implies that the correct answer is something negative and annoying.\n\nAnswer: A. bore"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are you not likely to find a bed?\nA. hotel room\nB. hospital\nC. rest area\nD. neighbor's house\nE. loft",
+        "chosen": "Explanation: You would not typically find a bed at a neighbor's house unless it was your own home, which is not a common scenario in this context.\nAnswer:D. neighbor's house",
+        "rejected": "Explanation: A bed is typically a piece of furniture designed for sleeping, and it is unlikely to be found in a place where people do not sleep.\n\nAnswer: E. loft (Lofts are often used as open living spaces or storage areas, rather than bedrooms, so you would not typically find a bed there.)"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What could someone who give assistance help someone else to be?\nA. listen\nB. assistant\nC. helpful\nD. prepared\nE. help one",
+        "chosen": "Explanation: When someone gives assistance, they are providing support or aid to another person. This can enable the recipient to become more effective or efficient in their work, situation, or goal.\nAnswer:C. helpful",
+        "rejected": "Explanation: The correct answer would be someone who gives assistance can help someone else to be \"helpful\".\n\nAnswer: A. listen"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are people likely to leave a car in a parking lot for an extended time?\nA. shopping center\nB. business district\nC. airport\nD. city\nE. swimming pool",
+        "chosen": "Explanation: When thinking about where people might leave a car in a parking lot for an extended time, we need to consider places where people typically spend more time or have longer stays. This could be due to work, leisure, or other activities.\nAnswer:C. airport",
+        "rejected": "Explanation: People tend to leave their cars in a parking lot for an extended period when they are away from their vehicle for an extended duration, which is often the case at locations where they may not need immediate access to a car.\n\nAnswer: A. shopping center"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are leaving in order to go to a spa?\nA. house\nB. hotel\nC. country club\nD. health centre\nE. backyard",
+        "chosen": "Explanation: When you're going to a spa, it's likely that you'll be leaving your home or residence (house) and going somewhere specifically designed for relaxation and wellness.\nAnswer:A. house",
+        "rejected": "Explanation: A spa is typically a facility that offers relaxation and wellness treatments, often located outside of one's home. To go to a spa, you would likely be leaving your home or another domestic location.\n\nAnswer: B. hotel"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The lawyer explained what committing perjury was, this was big case with high what?\nA. arrest\nB. shame\nC. tension\nD. risk\nE. penalty",
+        "chosen": "Explanation: Committing perjury is a serious offense that can have severe legal consequences. The lawyer was explaining the gravity of the situation, indicating that it's a high-stakes case.\nAnswer:E. penalty",
+        "rejected": "Explanation:\nThe context of the question suggests that the case is significant and important, which indicates that it involves a substantial consequence or cost. Among the options, \"risk\" (D) seems to be the most fitting because it implies potential negative outcomes.\n\nAnswer: D. risk"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?\nA. willing\nB. optional\nC. should not\nD. unnecessary\nE. have to",
+        "chosen": "Explanation: The criminal insisted that robbing the bank was necessary, implying it was unavoidable or essential for him. However, the bank teller tried to persuade him that there were alternative solutions.\nAnswer:D. unnecessary",
+        "rejected": "Explanation:\n\nThe criminal is insisting on committing a crime, implying that he feels it's unavoidable or necessary. The bank teller is trying to persuade him to find alternative solutions.\n\nAnswer:\nC. should not"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If you don't use a towel after getting wet, you body may do what?\nA. not dry\nB. shrinkage\nC. become cold\nD. shiver\nE. get melted",
+        "chosen": "Explanation: The human body is designed to regulate its temperature and maintain homeostasis. When the skin gets wet, it loses its natural barrier function and becomes more permeable to heat loss. If not dried or insulated properly, the body may lose heat excessively, leading to a drop in body temperature.\nAnswer:A. not dry",
+        "rejected": "Explanation:\n\nIf you don't use a towel to dry your body after getting wet, it may lead to evaporation of the water on your skin's surface. As the water evaporates, the temperature of your skin can drop, making you feel colder.\n\nAnswer: C. become cold"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The company wanted to hire someone with special needs, their job was to collect the cardboard in the what?\nA. box factory\nB. warehouse\nC. recycle bin\nD. packaging materials\nE. bathroom",
+        "chosen": "Explanation: The correct answer is A. box factory.\nAnswer:A. box factory",
+        "rejected": "Explanation: The question is asking about a specific job task assigned to an individual with special needs, which involves collecting something related to cardboard.\n\nAnswer: C. recycle bin"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Dan found a bunch of ball bearings behind a wall when he was doing renovations.  Where might that wall have been?\nA. high quality motor\nB. skatepark\nC. machines\nD. church\nE. can",
+        "chosen": "Explanation: Ball bearings are small metal balls used to reduce friction in mechanical systems, often found in devices such as wheels, gears, and machinery.\nAnswer:B. skatepark",
+        "rejected": "Explanation:\n\nBall bearings are small metal balls used to reduce friction and wear on moving parts in machinery or mechanisms. Considering this, it is more likely that the wall Dan found them behind was related to a machine or mechanism.\n\nAnswer: C. machines"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is likely true about a dog that escapes regularly?\nA. friendly\nB. very loyal\nC. tired\nD. very smart\nE. faithful",
+        "chosen": "Explanation: The question is inquiring about the characteristics of a dog that tends to escape frequently, implying that it may have developed certain traits or habits as a result.\nAnswer:A. friendly",
+        "rejected": "Explanation:\nSince the question asks what is likely true about a dog that ESCAPES regularly, it implies that the dog might not be well-behaved or obedient, which could mean it's not as loyal or faithful.\n\nAnswer: C. tired\nThe correct answer is C. tired because dogs that escape regularly might be exhausted from their adventures and attempts to get back home."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The dynamite expert was checking all the fuses, if everything went right it would be a profitable day at the what?\nA. workplace\nB. box\nC. coal mine\nD. construction site\nE. mining operation",
+        "chosen": "Explanation: The question is asking about the context in which the dynamite expert's work would have a positive outcome. Dynamite is typically used in mines, so it makes sense that the profitable day would be at an \"operation\" related to mining.\nAnswer:E. mining operation",
+        "rejected": "Explanation:\n\nThe question is asking about the setting where the dynamite expert is working, and the mention of \"fuses\" and \"profitable day\" suggests that the answer is related to an industry or activity that involves explosives.\n\nAnswer:\nC. coal mine\n\nThe correct answer is C. coal mine, as dynamite was commonly used in coal mining to break up rocks and extract coal."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:I had some old stuff that could be valuable , where did I send it?\nA. loft\nB. waste bin\nC. museum\nD. cellar\nE. attic",
+        "chosen": "Explanation: The correct option is E. attic, as the question states \"old stuff\" and \"attic\" is a common place where people store old items.\nAnswer:E. attic",
+        "rejected": "Explanation: If you have old items that could be valuable, sending them to the correct location is crucial for their preservation and potential sale. In this case, it's likely you would send these items to an expert appraiser or a specialized organization.\n\nAnswer: C. museum"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The butt was bare, and Sam couldn't stop staring at it.  It was very what?\nA. full\nB. ample\nC. covered\nD. bareword\nE. ample",
+        "chosen": "Explanation: The passage states that the \"butt\" is \"bare\", which means uncovered or exposed. Therefore, the correct description of the butt would be something that contrasts with being bare.\nAnswer:B. ample",
+        "rejected": "Explanation: The sentence is describing a situation where someone's bottom is exposed, implying that the area should not be visible.\n\nAnswer: A. bare"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where could you find some plumbing that would not be of use to you if you are thirsty?\nA. water fountain\nB. wall\nC. show\nD. own home\nE. oil refineries",
+        "chosen": "Explanation: The correct answer is A. water fountain because a water fountain provides plumbing for people to drink water, but it wouldn't be of use if you're already thirsty and want to quench your thirst.\nAnswer:A. water fountain",
+        "rejected": "Explanation: The question is looking for a place where plumbing refers to pipes or fixtures used for conveying fluids, rather than a source of drinking water.\n\nAnswer: B. wall"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Mary offered to let James sleep on her hide sofa bed, but he thought it was uncomfortable.  Where might he have decided to stay?\nA. apartment\nB. hotel\nC. couch\nD. guest room\nE. house",
+        "chosen": "Explanation: The passage mentions that Mary offered James a \"hide sofa bed\", which is likely an inflatable bed or a mattress on the floor, rather than a regular sofa.\nAnswer:C. couch",
+        "rejected": "Explanation: Since Mary offered James to sleep on her \"hide sofa bed\", it implies that the sofa is his only option for accommodation, and he didn't find it comfortable. Therefore, James would likely look for an alternative place to stay.\n\nAnswer: A. apartment"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sam was an alcoholic.  He was in a car crash two years ago and was injured.  Where might he have crashed?\nA. park\nB. bridge\nC. bar\nD. prison\nE. neighbor's house",
+        "chosen": "Explanation: The question is trying to trick the test-taker into thinking about Sam's personal life or location, but it's actually referring to the fact that Sam was in a car crash.\nAnswer:B. bridge",
+        "rejected": "Explanation: The question implies that Sam was driving while drunk, which is a common behavior associated with alcoholics. Therefore, the likely place where he crashed his car would be somewhere public and accessible by vehicle.\n\nAnswer: C. bar"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If I was getting drunk and lost control of my inhibitions, what might happen to me?\nA. pregnancy\nB. forgetfulness\nC. pass out\nD. death\nE. slurred speech",
+        "chosen": "Explanation: When you get drunk, your inhibitions are lowered, making it more likely that you may behave recklessly or say something you might regret. As a result, you may experience impaired judgment, loss of coordination, and difficulty controlling your emotions.\nAnswer:E. slurred speech",
+        "rejected": "Explanation: When someone gets drunk and loses control of their inhibitions, they may experience impaired judgment, reduced coordination, and altered behavior. This can lead to a range of consequences, including forgetfulness.\n\nAnswer: B. forgetfulness"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Someone who's belief in a philosophy is not slight but extreme is what?\nA. significant\nB. important\nC. radical\nD. radical\nE. essencial",
+        "chosen": "Explanation: The correct answer would be someone who has an intense or extreme adherence to a philosophy, which is characterized by being radical.\nAnswer:D. radical",
+        "rejected": "Explanation:\nThe correct answer describes someone whose belief in a philosophy is not moderate, but rather strong and intense.\n\nAnswer: C. radical"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What can one do better after learning about a subject?\nA. headache\nB. change\nC. form opinions\nD. advance\nE. start reproduction",
+        "chosen": "Explanation: The question is asking what you can do after gaining knowledge or understanding of a subject.\nAnswer:D. advance",
+        "rejected": "Explanation:\n\nAfter learning about a subject, it is crucial to form opinions based on the knowledge gained. This means analyzing and evaluating the information, making connections to prior knowledge, and forming beliefs or conclusions.\n\nAnswer:\nC. form opinions"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Danny needed a new mouse, his was jumping around  whenever he moved it.   Where might his mouse be?\nA. abandoned houses\nB. corn field\nC. desktop\nD. cabinet\nE. cupboard",
+        "chosen": "Explanation: Since the mouse is jumping around whenever Danny moves it, it's likely that the mouse has gotten stuck in a tight space or crevice where it can't move freely.\nAnswer:C. desktop",
+        "rejected": "Explanation: The question is asking where Danny's old mouse might be, as it's jumping around whenever he moves it. This suggests that the mouse is no longer functioning properly and might have been discarded or left somewhere.\n\nAnswer: A. abandoned houses"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:How will a teacher begin projects for students required to work together?\nA. group students\nB. teach pupils\nC. state facts\nD. better knowledge\nE. dividing students",
+        "chosen": "Explanation: To start projects that require collaboration among students, the teacher should divide students into groups.\nAnswer:E. dividing students",
+        "rejected": "Explanation: A teacher would typically start by grouping students together to form teams or groups, allowing them to collaborate and share ideas.\n\nAnswer: A. group students"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Joe was driven by curiosity to take up a career doing what?\nA. use television\nB. see exhibits\nC. design software\nD. read book\nE. taking a walk",
+        "chosen": "Explanation: The phrase \"driven by curiosity\" implies that Joe was motivated to pursue a career because he is curious about something.\nAnswer:B. see exhibits",
+        "rejected": "Explanation: The phrase \"driven by curiosity\" suggests that Joe's motivation for pursuing a career is his desire to learn and explore, rather than being motivated by external factors or material gain.\n\nAnswer: A. use television"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:There aren't many anemone in what glove-shaped state?\nA. michigan\nB. lake\nC. tide pool\nD. nursery\nE. atlantic ocean",
+        "chosen": "Explanation: Anemones are a type of marine animal that are often found in shallow, coastal waters. The glove-shaped state where anemones can be found is a tide pool.\nAnswer:C. tide pool",
+        "rejected": "Explanation:\n\nThe question is asking about a state that has the shape of a glove, and anemones are marine animals often found in shallow water. Therefore, it's likely referring to a coastal area or body of water.\n\nAnswer: B. Maine\n\nMaine is the only one among the options that fits this description, as it is often referred to as the \"Glove of God\" due to its unique shape on a map."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where do commuters usually move quickly?\nA. road\nB. race\nC. city\nD. race track\nE. freeway",
+        "chosen": "Explanation: Commuters typically travel to and from work or school, often using roads or highways.\nAnswer:E. freeway",
+        "rejected": "Explanation: Commuters typically refer to people who travel daily for work or education, and they often need to move efficiently from one place to another.\n\nAnswer: A. road"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Some people are morning people, others don't get going until after lunch in the what?\nA. night time\nB. dusk\nC. nighttime\nD. morning\nE. afternoon",
+        "chosen": "Explanation: The question is asking when some people start to feel more energetic and awake.\nAnswer:D. morning",
+        "rejected": "Explanation:\nThe question is asking about people's circadian rhythms and their natural times of activity.\n\nAnswer: E. afternoon"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is the world full of?\nA. galaxy\nB. thought\nC. water\nD. universe\nE. countries",
+        "chosen": "Explanation: The phrase \"the world\" is often used to refer to all of the galaxies and other celestial objects in existence, including stars, planets, and other matter.\nAnswer:A. galaxy",
+        "rejected": "Explanation: The phrase \"the world\" refers to the planet Earth and everything on it, including people, oceans, mountains, forests, and more.\n\nAnswer: D. universe"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:It might make you think of buckeyes, but an apple tree also grows well in which of the fifty?\nA. spain\nB. washington state\nC. orchid\nD. bible\nE. ohio",
+        "chosen": "Explanation: Apple trees are native to Central Asia and can be grown in many parts of the world, including certain regions within the United States.\nAnswer:B. washington state",
+        "rejected": "Explanation:\nApple trees are widely cultivated and can grow well in many regions around the world. Among the options, Ohio is a significant producer of apples in the United States.\n\nAnswer: E. ohio"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What kind of breathing makes noise but does not indicate that you are sick?\nA. cough\nB. clavicular\nC. yawn\nD. sigh\nE. live",
+        "chosen": "Explanation: Breathing can make noise through various physical actions, such as mouth movements or air passing through the vocal cords. However, not all noisy breathing indicates illness.\nAnswer:B. clavicular",
+        "rejected": "Explanation: Breathing can make noise due to various reasons, but in this case, we are looking for an option that does not indicate sickness.\n\nAnswer: C. yawn"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where could you find a steel cable that has not been completed yet?\nA. winch\nB. building\nC. roller coaster\nD. ship\nE. factory",
+        "chosen": "Explanation: The question is asking for the place where a steel cable might be in the process of being manufactured or assembled, rather than already completed.\nAnswer:E. factory",
+        "rejected": "Explanation: A steel cable is typically manufactured or processed in a factory, and it would be considered complete once it meets the required specifications. However, if you're looking for an option where a steel cable could still be \"incomplete,\" such as not yet fully manufactured or installed, one possibility is on a ship undergoing construction.\n\nAnswer: D. ship"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:She thought she had some old clothes that might work for the costume, she went to retrieve them down in the what?\nA. basement\nB. box\nC. trunk\nD. store\nE. attic",
+        "chosen": "Explanation: The question is asking where she went to retrieve her old clothes.\nAnswer:E. attic",
+        "rejected": "Explanation: The phrase \"down in the\" typically indicates a location below or at a lower level than the current position, and the context of the question suggests that the speaker is referring to a storage area.\n\nAnswer: A. basement"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you put your change if you will not need to use it soon?\nA. purse\nB. slot machine\nC. pocket\nD. jar\nE. casino",
+        "chosen": "Explanation: If you don't need to use the change soon, it's best to store it in a safe and accessible place.\nAnswer:A. purse",
+        "rejected": "Explanation: If you won't be using the change soon, it's likely that you'll put it in a safe or secure place where it can remain untouched until needed.\n\nAnswer: D. jar"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is a clever way to say someone isn't very good at what they do?\nA. clumsy\nB. dull\nC. stupid\nD. dummy\nE. ineffectual",
+        "chosen": "Explanation: The question is asking for a polite and indirect way to express that someone lacks skill or competence in their profession.\nAnswer:E. ineffectual",
+        "rejected": "Explanation:\nThe correct answer describes someone who lacks proficiency or skill in their work or activity.\n\nAnswer: A. clumsy"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What would you be building if you designed a place for an annoying critter to stay?\nA. spread disease\nB. swamp\nC. fly away\nD. bug campers\nE. cat condo",
+        "chosen": "Explanation: The question is asking about designing a place for an annoying critter, implying that the critter is a pest or nuisance. The options suggest different ways to address this issue.\nAnswer:D. bug campers",
+        "rejected": "Explanation: The question is asking about designing a place for an annoying critter, implying that the critter might be pests or insects that people find bothersome.\n\nAnswer: A. spread disease"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you put a dictionary while you're using it?\nA. library\nB. study area\nC. table\nD. classroom\nE. shelf",
+        "chosen": "Explanation: You are more likely to use a dictionary at your desk or workspace, such as a table or study area, where you can easily refer to it while working on a task or researching a topic.\nAnswer:B. study area",
+        "rejected": "Explanation: You typically use a dictionary to look up words and their meanings, so it makes sense to keep it nearby where you are actively using it.\n\nAnswer: C. table"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Rita liked the taste anemone, so she got one from what kind of place?\nA. flower pot\nB. seafood restaurant\nC. tide pool\nD. neighbor's house\nE. flower shop",
+        "chosen": "Explanation: Anemones are a type of flowering plant, and it is common to find them in places where flowers are sold.\nAnswer:E. flower shop",
+        "rejected": "Explanation: Anemones are a type of flower that grows in the ocean, and they are often found in tide pools or near coral reefs. Rita likely got an anemone from a place where she can find them in their natural habitat.\n\nAnswer: C. tide pool"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is a steel cable called a wire rope primarily used for?\nA. factory\nB. building\nC. winch\nD. ship\nE. jumprope",
+        "chosen": "Explanation: A wire rope, also known as a steel cable, is primarily used for lifting and hauling heavy loads or objects, often in industries such as construction, mining, or maritime.\nAnswer:C. winch",
+        "rejected": "Explanation: A wire rope, also known as a steel cable, is a type of rope that consists of multiple strands of wire wrapped around a central core. It is commonly used in applications where high strength and durability are required.\n\nAnswer: D. ship"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:John didn't know why it was called blowing. You didn't blow.  There was no blowing.  What was done instead of blowing?\nA. breathe in\nB. sucking\nC. inhale\nD. breathing in\nE. sucking",
+        "chosen": "Explanation: The phrase \"blowing\" is likely referring to a specific activity or process, but it's not actually blowing air. Instead, the text suggests that something else was done, which is described as the opposite of blowing.\nAnswer:B. sucking",
+        "rejected": "Explanation: The passage mentions that \"there was no blowing\", suggesting that the action being referred to is not blowing, but rather some other action related to respiration.\n\nAnswer: A. breathe in"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:John didn't know why it was called blowing. You didn't blow.  There was no blowing.  What was done instead of blowing?\nA. breathe in\nB. sucking\nC. inhale\nD. breathing in\nE. sucking",
+        "chosen": "Explanation: The phrase \"blowing\" is likely referring to a specific activity or process, but it's not actually blowing air. Instead, the text suggests that something else was done, which is described as the opposite of blowing.\nAnswer:B. sucking",
+        "rejected": "Explanation: The passage is referring to the act of playing a harmonica, where air is blown into the instrument to produce sound.\n\nAnswer: C. inhale"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are fish from salt water happiest?\nA. river\nB. boat\nC. ocean\nD. brackish\nE. aquarium",
+        "chosen": "Explanation: Fish from saltwater thrive in environments with a similar level of salinity, which is why they tend to be happiest when living in saltwater habitats.\nAnswer:C. ocean",
+        "rejected": "Explanation:\nFish that come from saltwater environments, such as oceans and seas, tend to thrive in environments with a similar salinity level. Saltwater fish can struggle or even die if placed in freshwater environments.\n\nAnswer: E. aquarium"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Sarah expected to a fortune on her new business.  However, she ended up going broke because no one could get money to buy.  What might her business have been?\nA. bunkrupt\nB. treasure chest\nC. stock market\nD. bank\nE. real estate",
+        "chosen": "Explanation: The question is describing a scenario where Sarah had high expectations for her new business, but it ultimately failed because people couldn't afford to buy into it. This suggests that the business might have been something that required an upfront investment or purchase from customers.\nAnswer:A. bunkrupt",
+        "rejected": "Explanation:\n\nSarah's business failed due to lack of buyers, implying that it was a product-based business where people needed to purchase her products to keep the business running. The correct answer would be a type of physical or tangible goods that Sarah sold.\n\nAnswer: E. real estate\n\nIn this scenario, if Sarah went broke because no one could get money to buy (likely referring to buying houses or properties), it suggests that her business was in the real estate sector."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is likely the result of remembering a deceased friend?\nA. problems\nB. inspiration\nC. knowledge\nD. crying\nE. trauma",
+        "chosen": "Explanation: Remembering a deceased friend can be an emotional experience that can evoke strong feelings and reactions.\nAnswer:D. crying",
+        "rejected": "Explanation: Remembering a deceased friend can be an emotional and complex experience that may lead to various outcomes.\n\nAnswer: E. trauma"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:John needed a new lock to lock his antique pirate artifact. What might that artifact be?\nA. plastic sword\nB. ignition switch\nC. controlling access\nD. drawer\nE. firearm",
+        "chosen": "Explanation: The question implies that the \"antique pirate artifact\" is a valuable and possibly sensitive item, which requires a lock to secure it. Pirates are often associated with treasure chests and valuable possessions.\nAnswer:C. controlling access",
+        "rejected": "Explanation: The context of the question mentions an \"antique pirate artifact\", which suggests a historical or collectible item related to piracy, often containing valuable or precious contents.\n\nAnswer: A. plastic sword (Note that this is not the most likely correct answer, but it's the best fit among the given options)"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The fraternity preferred working out at the gymnasium, where was this located?\nA. school or ymca\nB. spa\nC. high school\nD. college campus\nE. stadium",
+        "chosen": "Explanation: The word \"fraternity\" implies a group of students who are typically associated with a college or university, making it more likely that the gymnasium is located on a college campus.\nAnswer:D. college campus",
+        "rejected": "Explanation: The context of the question suggests that the \"fraternity\" refers to a group of people, likely students, who are into physical activity and prefer working out together at a specific location.\n\nAnswer: A. school or ymca"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Joe found that he was stabbing a man to death.  He didn't expect to be doing that, he was just angry. He was scared of the consequences  Thecollapsed covered with what?\nA. law suit\nB. knives\nC. bleeding\nD. knife wounds\nE. jail time",
+        "chosen": "Explanation: Joe collapsed is likely referring to the man he stabbed, who had just been attacked by Joe.\nAnswer:D. knife wounds",
+        "rejected": "Explanation: According to the passage, Joe found that he was stabbing a man to death, which implies that there are injuries and blood involved.\n\nAnswer: C. bleeding"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The executives talked strategy walking through the lobby, what were they likely discussing?\nA. opera\nB. office building\nC. receptionist\nD. game plan\nE. business plan",
+        "chosen": "Explanation: The context of the question suggests that the executives are likely discussing their business strategy as they walk through the lobby. The mention of \"talking strategy\" implies a discussion about plans or tactics related to their professional lives.\nAnswer:D. game plan",
+        "rejected": "Explanation: The scenario mentions \"strategy\" and \"executives\", implying a discussion related to business or work, which is likely to be about the company's overall direction or approach.\n\nAnswer: E. business plan"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:When you return to work you will likely need what to get in the door if you are the first to arrive?\nA. earn money\nB. key\nC. need money\nD. badge\nE. get out of bed",
+        "chosen": "Explanation: The correct answer is the item that allows someone to enter a building or secure area.\nAnswer:B. key",
+        "rejected": "Explanation: The correct answer is D. badge because a badge or ID card is typically required to gain access to a workplace.\n\nAnswer: D"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:One way to resolve confusion here is to raise my hand. Where am I?\nA. war\nB. class\nC. mind\nD. school\nE. opera",
+        "chosen": "Explanation: The phrase \"raise my hand\" is a common way to get attention or express agreement or participation in a discussion, which is typically done in an educational setting.\nAnswer:B. class",
+        "rejected": "Explanation: The phrase \"to raise my hand\" is a common idiomatic expression used in educational settings, typically in classrooms or schools.\n\nAnswer: D. school"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where could you see a landmark surrounded by many miles of plants, other than in a park?\nA. countryside\nB. national park\nC. desert\nD. map\nE. city",
+        "chosen": "Explanation: A landmark can be found in various environments. In this case, the clue mentions \"many miles of plants\", which suggests a vast area with vegetation.\nAnswer:A. countryside",
+        "rejected": "Explanation: A landmark is a notable or historic feature that can be found in various environments, including natural areas with vast vegetation.\n\nAnswer: C. desert\n\nThe correct answer is the desert because many landmarks are surrounded by miles of plants, such as cacti and other types of flora."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Johnny had a number of tools, including a hammer, which is needed because of his work.  Where might he have worked?\nA. garage\nB. tool box\nC. repair shop\nD. house\nE. hardware store",
+        "chosen": "Explanation: The question mentions Johnny having a hammer as part of his tools, which is likely used for some kind of physical work or labor.\nAnswer:C. repair shop",
+        "rejected": "Explanation:\nSince Johnny has a hammer as part of his tools, it implies that he needs to use the hammer for some practical purpose, likely related to his job or work. This suggests that he might have worked in a place where physical labor and hands-on activities are common.\n\nAnswer: A. garage"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What might someone not wanting to have someone talking to them have to a talkative person.?\nA. increased understanding\nB. rumors spread\nC. adverse reaction\nD. boredom\nE. headache",
+        "chosen": "Explanation: If someone doesn't want to engage in conversation with a talkative person, they might feel annoyed or frustrated by the constant talking and thus experience an adverse reaction.\nAnswer:C. adverse reaction",
+        "rejected": "Explanation:\nThe correct answer would be D. boredom, as the scenario implies that the person is not wanting to engage in conversation with the talkative person and is likely feeling tired or uninspired by their constant talking.\n\nAnswer: D. boredom"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What might someone not wanting to have someone talking to them have to a talkative person.?\nA. increased understanding\nB. rumors spread\nC. adverse reaction\nD. boredom\nE. headache",
+        "chosen": "Explanation: If someone doesn't want to engage in conversation with a talkative person, they might feel annoyed or frustrated by the constant talking and thus experience an adverse reaction.\nAnswer:C. adverse reaction",
+        "rejected": "Explanation: When someone is not wanting to engage in conversation, they might try to escape or avoid talking to the talkative person. In this case, having a prolonged and unwanted conversation can lead to physical discomfort or mental fatigue.\n\nAnswer: E. headache"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:You want a real estate agent that is straight forward with you, the last thing you want is for them to what a house's quality?\nA. cover up\nB. offer price\nC. falsify\nD. lie\nE. misrepresent",
+        "chosen": "Explanation: The question asks about a real estate agent's behavior when describing the quality of a house. The correct answer is A. cover up, because \"to cover up\" means to conceal or hide something, which implies that the agent would intentionally not reveal any flaws or issues with the property.\nAnswer:A. cover up",
+        "rejected": "Explanation:\nThe correct answer is E. misrepresent.\n\nYou want the real estate agent to be straightforward and honest about the house's quality, not to mislead or conceal any information that might affect your decision.\n\nAnswer: E"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?\nA. run quickly\nB. drink water\nC. gallup\nD. pull cart\nE. go away",
+        "chosen": "Explanation: The question is trying to trick us by presenting a false assumption in the first part of the sentence. Slapping a horse's butt will not make it gallop, as this is an unnatural and potentially harmful behavior.\nAnswer:E. go away",
+        "rejected": "Explanation: The question is trying to trick us into thinking that the action \"slapping a horse's butt\" will have the same effect whether we're on or off the horse. However, since we are not actually doing something that would affect the horse's movement or behavior, it's safe to say that the answer should be something unrelated.\n\nAnswer: B. drink water"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:If I am tilting a drink toward my face, what should I do before the liquid spills over?\nA. close eyes\nB. use glass\nC. buy bottle\nD. open mouth\nE. eat first",
+        "chosen": "Explanation: When tilting a drink towards your face, it's essential to prepare for the liquid to spill over. One should take steps to ensure they're ready to receive the drink without making a mess.\nAnswer:A. close eyes",
+        "rejected": "Explanation: Before the liquid spills over when tilting a drink towards your face, it's essential to prepare by opening your mouth to receive the liquid.\n\nAnswer: D. open mouth"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:James kept a clipboard where he could easily find  it.  Where might he keep it?\nA. shelf\nB. place of work\nC. school\nD. office supply store\nE. desk",
+        "chosen": "Explanation: The sentence suggests that James wants to be able to easily find his clipboard, implying that it is something he uses regularly and needs quick access to. This makes his workspace or a location where he spends time more likely options.\nAnswer:E. desk",
+        "rejected": "Explanation:\n\nThe phrase \"where he could easily find it\" suggests that James wants to have the clipboard in a location where he can quickly access it. This implies a personal or workspace environment.\n\nAnswer: B. place of work"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Alexa needed a safe place to put her acoustic guitar when she wasn't playing it.  Where might she put it?\nA. drawer\nB. music shop\nC. house\nD. studio\nE. closet",
+        "chosen": "Explanation: Alexa needs a safe and secure place to store her guitar when not in use, away from dust, damage, or theft.\nAnswer:E. closet",
+        "rejected": "Explanation: Since Alexa is looking for a \"safe\" place to store her acoustic guitar, she would want a location that provides protection and stability.\n\nAnswer: A. drawer\n\nA drawer can provide a safe and stable space for Alexa to keep her guitar when not in use. The other options don't seem like suitable choices for storing a valuable instrument like an acoustic guitar."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where is glue well used?\nA. desk drawer\nB. cabinet\nC. school\nD. art room\nE. closed container",
+        "chosen": "Explanation: Glue is a type of adhesive used to bond materials together. It's commonly found in various settings where crafting, repairing, or building activities take place.\nAnswer:D. art room",
+        "rejected": "Explanation: Glue is a common adhesive substance used to bond materials together, and it's often found in various settings where crafting, repairing, or constructing activities take place.\n\nAnswer: C. school"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:You can do what do share your memories of visiting a museum?\nA. take pictures\nB. cry\nC. talk loudly\nD. whisper\nE. entertainment",
+        "chosen": "Explanation: A museum visit is often a quiet and respectful experience, and it's generally considered impolite to talk loudly or make noise that could disturb other visitors. Taking pictures is a common way to capture memories of the exhibit without disturbing others.\nAnswer:A. take pictures",
+        "rejected": "Explanation: Visiting a museum often requires quiet and respectful behavior to preserve the artifacts and allow other visitors to appreciate the exhibits.\n\nAnswer: D. whisper"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:During the winter hunt he could hear every motion in the woods, this was because of the what of everything?\nA. stillness\nB. silence\nC. stationary\nD. being still\nE. standing still",
+        "chosen": "Explanation: The correct answer refers to the idea that when everything is quiet and still in the woods, it allows the hunter to hear every motion due to the absence of distracting sounds.\nAnswer:B. silence",
+        "rejected": "Explanation:\nThe passage describes the ability to hear every motion in the woods during the winter hunt. This is possible because of the \"stillness\" of everything, meaning that there are no sounds or movements to distract from the subtle sounds of nature.\n\nAnswer: A. stillness"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:They were throwing a surprise party but failed, turned out to the guest of honor it was what?\nA. sneaky\nB. foreshadowed\nC. known already\nD. already knew\nE. hiding",
+        "chosen": "Explanation: A surprise party relies on secrecy and suddenness, so if the guest of honor found out beforehand, it would not be a surprise.\nAnswer:C. known already",
+        "rejected": "Explanation:\n\nThe correct answer should be someone who was supposed to be a surprise, but the surprise didn't work out because they found out about it beforehand.\n\nAnswer: A. sneaky"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:They were throwing a surprise party but failed, turned out to the guest of honor it was what?\nA. sneaky\nB. foreshadowed\nC. known already\nD. already knew\nE. hiding",
+        "chosen": "Explanation: A surprise party relies on secrecy and suddenness, so if the guest of honor found out beforehand, it would not be a surprise.\nAnswer:C. known already",
+        "rejected": "Explanation: The correct answer is B. foreshadowed.\n\nAnswer: B"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are you likely to see stars out the window?\nA. wall\nB. building\nC. on the lawn\nD. friend's house\nE. space shuttle",
+        "chosen": "Explanation: Stars can be seen in the night sky, which is above us and visible outside.\nAnswer:C. on the lawn",
+        "rejected": "Explanation: Stars are celestial bodies that exist outside of Earth's atmosphere, so they can only be seen from a location with a clear view of the sky.\n\nAnswer: E. space shuttle"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are you likely to see stars out the window?\nA. wall\nB. building\nC. on the lawn\nD. friend's house\nE. space shuttle",
+        "chosen": "Explanation: Stars can be seen in the night sky, which is above us and visible outside.\nAnswer:C. on the lawn",
+        "rejected": "Explanation: You would typically see stars from a location with minimal light pollution and an unobstructed view of the night sky.\n\nAnswer: A. wall (assuming it's a dark-sky preserve or a remote area with no artificial lighting)."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:When a retired person returns to work they likely need to do what?\nA. key\nB. get out of bed\nC. earn money\nD. need money\nE. understand themselves",
+        "chosen": "Explanation: A retired person returning to work may need to earn money to supplement their retirement income, which has decreased or stopped.\nAnswer:C. earn money",
+        "rejected": "Explanation: A retired person returning to work may not necessarily want to go back to their previous job or career, but rather explore a new chapter in their life. Therefore, they likely need to understand themselves and their motivations for going back to work.\n\nAnswer: E. understand themselves"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where are you when an employee brings you cooked potatoes?\nA. bathroom\nB. cellar\nC. restaurant\nD. countryside\nE. plate",
+        "chosen": "Explanation: The context of the question suggests that the employee is bringing cooked potatoes to a location, and not growing or storing them.\nAnswer:E. plate",
+        "rejected": "Explanation: The question is asking about where someone would typically keep or store cooked potatoes.\n\nAnswer: B. cellar"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:He had to take oath that he would be what?\nA. sense of duty\nB. not fib\nC. not lie\nD. truthful\nE. think",
+        "chosen": "Explanation: The phrase \"take an oath\" typically means to make a formal promise or declaration, usually with the intention of swearing to be honest or truthful.\nAnswer:D. truthful",
+        "rejected": "Explanation:\nThe phrase \"take an oath\" typically implies a formal promise or declaration, often with the intention to verify one's truthfulness or commitment to something.\n\nAnswer: C. not lie"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What can someone do to end relaxing?\nA. feeling better\nB. stress\nC. sleeping\nD. invigorating\nE. deep breathing",
+        "chosen": "Explanation: Ending relaxation means bringing an end to a state of calmness and tranquility. Something that helps you stop feeling relaxed is actually the opposite of relaxing.\nAnswer:B. stress",
+        "rejected": "Explanation: Relaxing often involves unwinding and calming down after a stressful or tiring period.\n\nAnswer: C. sleeping"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Jim is applying for his first job.  He's really nervous, though, and isn't sure he is ready for what?\nA. less sleep\nB. sadness\nC. employment\nD. stress\nE. rejection",
+        "chosen": "Explanation: Jim is applying for his first job, which suggests a significant life change. It's common to feel anxious or apprehensive when facing such a milestone, especially if it means stepping out of one's comfort zone.\nAnswer:E. rejection",
+        "rejected": "Explanation: The question implies that Jim is feeling anxious about his job application, suggesting that he's worried about something related to the process.\n\nAnswer: D. stress"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:WHat could prevent someone from the ability to buy a house?\nA. bargain\nB. lose money\nC. settle down\nD. pay for\nE. too far away",
+        "chosen": "Explanation: The correct answer would be E. too far away because it suggests that someone is unable to purchase a house due to the physical distance between their location and the property.\nAnswer:E. too far away",
+        "rejected": "Explanation: A person's inability to buy a house can be due to various reasons, one of which is financial constraints. Not having enough money or being unable to afford the mortgage payments, down payment, and other costs associated with homeownership can prevent someone from buying a house.\n\nAnswer: B. lose money"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The man began to cogitate about cogitating, being able to do this meant he clearly he must what?\nA. obsessive compulsive\nB. mad\nC. have brain\nD. perambulate\nE. sit quietly",
+        "chosen": "Explanation: The word \"cogitate\" means to think deeply or reflect seriously. The man began to think about thinking, implying that he was contemplating his own thought process.\nAnswer:A. obsessive compulsive",
+        "rejected": "Explanation:\nThe question is testing the test-taker's understanding of the word \"cogitate\". Cogitate means to think deeply or ponder, and it's related to thinking carefully about something. In this context, the man is reflecting on his ability to think, so he must have a brain that is capable of such thinking.\n\nAnswer: C. have brain"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:The king was to meet an ambassador, where would the meet?\nA. court\nB. throne room\nC. dinning room\nD. monarchy\nE. castle",
+        "chosen": "Explanation: The meeting between the king and the ambassador is likely to take place in a formal setting that reflects the king's status and authority. Among the options, the throne room or court are the most plausible choices.\nAnswer:B. throne room",
+        "rejected": "Explanation:\nThe term \"court\" in this context refers to the royal court, which is a formal gathering place for the king or queen and their advisors, dignitaries, and guests.\n\nAnswer: A. court"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?\nA. state park\nB. bus depot\nC. gym\nD. garden\nE. rest area",
+        "chosen": "Explanation: The passage states that Johnny \"sat on a bench\", which suggests a public space with benches, and that he relaxed after doing work on his hobby. This implies a leisurely atmosphere.\nAnswer:A. state park",
+        "rejected": "Explanation: The question states that Johnny sat on a bench, which implies a location where one can sit and relax. Given the context of doing work on his hobby afterwards, it suggests a quiet and peaceful environment.\n\nAnswer: D. garden"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:How did the mother feel about going somewhere and getting a whole new house to decorate?\nA. getting there\nB. excitement\nC. movement\nD. anticipation\nE. expense",
+        "chosen": "Explanation: The correct answer describes the mother's emotional state or attitude towards going somewhere to get a new house.\nAnswer:B. excitement",
+        "rejected": "Explanation: The question is describing the mother's emotional state before moving into a new house, which implies that she was looking forward to it.\n\nAnswer: D. anticipation"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would a bald eagle land?\nA. canada\nB. wildlife refuge\nC. pine tree\nD. on a lake\nE. open country",
+        "chosen": "Explanation: Bald eagles typically inhabit areas with abundant food sources, such as lakes, rivers, and wetlands. They often nest in trees or cliffs near their feeding grounds.\nAnswer:C. pine tree",
+        "rejected": "Explanation: Bald eagles are large birds of prey that typically inhabit areas with water, such as lakes or rivers, where they can hunt for fish and other small prey.\n\nAnswer: A. Canada (or E. Open Country) - Although bald eagles may occasionally be seen in urban areas like wildlife refuges or even land on a pine tree to nest or roost, their natural habitats are often found in open country or near water sources like lakes, rivers, or coastal areas, including parts of Canada."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where can you go to thousands of bus station?\nA. city centre\nB. maps\nC. portland\nD. busy city\nE. street",
+        "chosen": "Explanation: A map is a visual representation that shows various locations, including bus stations, and one can navigate through it to find thousands of bus stations.\nAnswer:B. maps",
+        "rejected": "Explanation: The correct answer is likely referring to a place where one can find or access thousands of bus stations.\n\nAnswer: A. city centre"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:When does christmas happen in Argentina?\nA. buy presents for others\nB. easter\nC. when correct time comes\nD. summer\nE. halloween",
+        "chosen": "Explanation: Christmas is a widely celebrated holiday around the world, and Argentina is no exception. However, its date remains unchanged globally.\nAnswer:C. when correct time comes",
+        "rejected": "Explanation: Christmas is a public holiday in Argentina, but it's celebrated on January 6th, not December 25th.\n\nAnswer: D. Summer"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What is likely to happen to someone who hurts someone else without regret?\nA. feel happy\nB. feel remorse\nC. bad karma\nD. punishment\nE. will resent",
+        "chosen": "Explanation: Hurting someone without regret may suggest a lack of empathy or remorse for the harm caused, which can lead to negative consequences.\nAnswer:C. bad karma",
+        "rejected": "Explanation: Harming another person without feeling any remorse or guilt can lead to negative consequences, both psychologically and potentially legally.\n\nAnswer: D. punishment"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:John works for a company that doesn't make anything.  It just buys, sales, and does what?\nA. own resources\nB. mail order\nC. commit crime\nD. ship goods\nE. stock shelves",
+        "chosen": "Explanation: The company John works for is a retailer, which means it primarily deals with buying products from other companies and then selling them to customers.\nAnswer:A. own resources",
+        "rejected": "Explanation: The correct answer would be an option that describes a company's function of acquiring goods or products from other companies and then reselling them to customers.\n\nAnswer: D. ship goods"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:When deciding how to shop cereal, what decision to most cereal manufacturers make?\nA. cabinet\nB. mouth\nC. fridge\nD. cupboard\nE. box",
+        "chosen": "Explanation: Cereal manufacturers typically decide where to place their product in a store by considering factors such as customer flow, visibility, and competition.\nAnswer:A. cabinet",
+        "rejected": "Explanation: The correct answer is D. cupboard because cereal manufacturers typically store their products in cupboards or pantry shelves.\n\nAnswer: D"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where could you go on top of a superhighway?\nA. city\nB. rural area\nC. cyberspace\nD. computer network\nE. industrialized country",
+        "chosen": "Explanation: The phrase \"on top of\" implies physical elevation or height, and \"superhighway\" refers to a large highway or a road. Therefore, the correct answer is where you can physically go on top of a superhighway.\nAnswer:B. rural area",
+        "rejected": "Explanation: A superhighway is a colloquial term for a high-speed highway or a thoroughfare with multiple lanes. Therefore, the correct answer would be where one can physically drive on top of such a road.\n\nAnswer: A"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What has a shelf that does not allow you to see what is inside of it?\nA. hold alcohol\nB. stove\nC. chest of drawers\nD. bookcase\nE. grocery store",
+        "chosen": "Explanation: The correct answer is B. stove because a stove has a shelf, but the contents on the shelf (the burners or oven) are not visible when the door or lid is closed.\nAnswer:B. stove",
+        "rejected": "Explanation: A bookcase typically has shelves, but the books on those shelves are not visible from the front due to their covers and spines.\n\nAnswer: D. bookcase"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where might a bureau be in charge?\nA. home office\nB. french government\nC. office building\nD. parliament\nE. bedroom",
+        "chosen": "Explanation: A bureau is an administrative unit that is often responsible for managing and overseeing a particular department or organization. It might be located in various places where it can efficiently perform its duties.\nAnswer:A. home office",
+        "rejected": "Explanation: A bureau is typically an administrative department or office that oversees a specific area of responsibility.\n\nAnswer: C. office building"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where would you find several businesses in the same location?\nA. park\nB. skyscraper\nC. office building\nD. big city\nE. art",
+        "chosen": "Explanation: A shopping center or a business district is where you can find several businesses in the same location.\nAnswer:B. skyscraper",
+        "rejected": "Explanation: A strip of land or a plot where multiple buildings, usually commercial establishments like shops and restaurants, are located.\n\nAnswer: C. office building"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Billy loved climbing, and he eventually suffered a brain injury due to what?\nA. loss of oxygen\nB. getting higher\nC. falling\nD. blisters\nE. ascending",
+        "chosen": "Explanation: Billy's brain injury was likely caused by the physical trauma resulting from falling while climbing, which can lead to a lack of oxygen reaching the brain.\nAnswer:C. falling",
+        "rejected": "Explanation: The correct answer should be related to the activity Billy loves, which is climbing. A brain injury can occur when there is a lack of oxygen reaching the brain, which often happens during high-altitude climbs.\n\nAnswer: A. loss of oxygen"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where south of the U.S. can you find a steak house serving Dos Equis cerveza?\nA. japan\nB. restaurant\nC. united states\nD. mexico\nE. texas",
+        "chosen": "Explanation: Dos Equis is a Mexican beer brand, so it's likely to be found in Mexico or in areas with significant Hispanic influence.\nAnswer:D. mexico",
+        "rejected": "Explanation:\nThe question is asking about a specific location where you can find a steakhouse serving Dos Equis beer, which is a popular Mexican beer brand.\n\nAnswer: C. United States\n\nDos Equis is widely available in the United States and many restaurants, including steakhouses, may carry it on their beer menu."
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:What does everyone have in relation to other people?\nA. unique personality\nB. food\nC. feelings\nD. different standards\nE. values",
+        "chosen": "Explanation: The answer refers to the fact that everyone has their own experiences, perspectives, and emotions that are distinct from those of others.\nAnswer:A. unique personality",
+        "rejected": "Explanation: This question is asking what is a shared quality that all humans possess in relation to others.\n\nAnswer: C. feelings"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where does a ticket booth stand at the front of?\nA. park\nB. movie theater\nC. train station\nD. subway\nE. auditorium",
+        "chosen": "Explanation: A ticket booth is typically located at the main entrance or reception area where people enter and purchase tickets to an event, attraction, or transportation.\nAnswer:B. movie theater",
+        "rejected": "Explanation: A ticket booth is typically located at the entrance or near the entrance of a venue where tickets are sold for admission.\n\nAnswer: C. train station"
+    },
+    {
+        "instruction": "Think step by step to choose the option you think is the most correct. Limit the explanations to three sentences or less and keep them concise.\nOutput format:\nExplanation:<your explanation>\nAnswer:<correct option>",
+        "input": "Question:Where is the most famous cartoon mouse from?\nA. sewer\nB. disneyland\nC. corn field\nD. television\nE. trap",
+        "chosen": "Explanation: Mickey Mouse, the most famous cartoon mouse, was created by Walt Disney and Ub Iwerks in 1928.\nAnswer:B. disneyland",
+        "rejected": "Explanation: The correct answer refers to a well-known cartoon character.\n\nAnswer: D. television"
+    }
+]
